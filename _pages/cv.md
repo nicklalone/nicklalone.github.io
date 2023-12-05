@@ -23,6 +23,9 @@ Education
 Work experience
 ======
 - **Current**
+  * Assistant Professor, School of Interactive Games and Media, Rochester Institute of Technology.  
+  
+- **08/2019 - 08/2023**
   * Assistant Professor. Department of Information Systems and Quantitative Analysis, University of Nebraska at Omaha. 
 
 - **08/2018 - 07-2019**
@@ -59,6 +62,7 @@ Teaching
   
 Service and leadership
 ======
+* Chair, Emerging Technology Caucus, International Association of Emergency Management
 * University of Nebrask at Omaha: Doctoral Program Committee
 * University of Nebrask at Omaha: Undergraduate Program Committee
 * University of Nebrask at Omaha: IS&T Advisory Committee
