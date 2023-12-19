@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "recruiting"
+title: "Interested in Working with me?"
 permalink: /recruiting/
 author_profile: true
 redirect_from:
