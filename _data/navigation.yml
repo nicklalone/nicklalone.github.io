@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Potential Students"
+    url: /recruiting/
+    
   - title: "Publications"
     url: /publications/
 
@@ -17,7 +20,4 @@ main:
     
   - title: "CV"
     url: /cv/
-  
-  - title: "Potential Students"
-    url: /recruiting/
     
