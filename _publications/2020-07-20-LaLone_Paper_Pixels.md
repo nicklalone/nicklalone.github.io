@@ -13,4 +13,4 @@ Game map interfaces provide an alternative perspective on the worlds players inh
 [Paper Available here](https://dl.acm.org/doi/10.1145/3357236.3395502?cid=87259569357
 )
 
-Toups, Z. O., LaLone, N., Spiel, K., & Hamilton, B. (2020, July). Paper to Pixels: A Chronicle of Map Interfaces in Games. In Proceedings of the 2020 ACM Designing Interactive Systems Conference (pp. 1433-1451).
+Toups Dugas, Phoebe O., LaLone, N., Spiel, K., & Hamilton, B. (2020, July). Paper to Pixels: A Chronicle of Map Interfaces in Games. In Proceedings of the 2020 ACM Designing Interactive Systems Conference (pp. 1433-1451).
