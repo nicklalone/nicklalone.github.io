@@ -1,15 +1,7 @@
 ---
 layout:       post
-title: 'Ludic Gatekeepers and the Unclear Simulation'
-date: 2015-02-09
-author:       "Nick"
-header-style: text
-tags:
-  - Simulation
-  - Training
-  - Dungeons and Dragons
-  - Ludic 
-  - Board Games
+title: Ludic Gatekeepers and the Unclear Simulation
+tags: [Simulation, Training, Dungeons and Dragons, Ludic, Board Games]
 ---
 In early 2014, I began to lay the groundwork for a simulation meant to train crisis management personnel on the growing impact of social media during response efforts. Later, this work would make its way into a proposal submitted on behalf of the Netherlands Organization for Applied Scientific Research (TNO) meant to do just that. Our proposal outlined the need and benefit of a simulation that was created to be engaged in-person, was [low fidelity](http://annex.ipacweb.org/library/conf/03/havighurst.pdf), low technology, and meant for for resource strapped crisis management services in rural portions of the European Union. Simulations like these are invaluable for [all manner of training](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2966567/).  
 
