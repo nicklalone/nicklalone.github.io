@@ -1,15 +1,7 @@
 ---
-layout:       post
-title: 'On the Impact of Nonhumans in Social Network Analysis'
-date: 2017-07-28
-author:       "Nick"
-header-style: text
-tags:
-  - SNA
-  - Dissertation
-  - Actor-Network Theory
-  - HCI
-  - Board Games
+layout: post
+title: On the Impact of Nonhumans in Social Network Analysis
+tags: [SNA, Dissertation, Actor-Network Theory, HCI, Board Games]
 ---
 
 I got some reviews back the other day on my first attempt to produce something from my dissertation research. Of the reviews, one aspect that stood out was that there was a need for “more detail.” Simple associations like those found in Social Network Analysis just aren’t enough for something substantial. And, for the most part, I agree.
