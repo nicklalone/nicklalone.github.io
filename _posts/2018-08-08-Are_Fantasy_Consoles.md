@@ -1,14 +1,7 @@
 ---
 layout:       post
 title: 'Are Fantasy Consoles a Better Gateway to Learning How to Program? Learning Programming with PICO-8'
-date: 2018-08-08
-author:       "Nick"
-header-style: text
-tags:
-  - PICO-8
-  - Fantasy Console
-  - Teaching Intro Programming
-  - Game Design
+tags: [PICO-8]
 ---
 
 Fantasy Consoles are self-contained video game development environments so incredibly constrained that users have no choice but to learn how programming works.
