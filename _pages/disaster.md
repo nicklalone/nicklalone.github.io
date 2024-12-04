@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work on Disaster
+title: Disaster
 ---
 
 ### Welcome! 
