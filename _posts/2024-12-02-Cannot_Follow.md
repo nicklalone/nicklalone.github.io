@@ -1,14 +1,8 @@
 ---
 layout: post
-title: "Tech in Emergency Management Cannot Follow the Standard Cycle"
-subtitle: "Or stop trying to save emergency management by coating it in technology"
-author: "Nick"
-header-style: text
-tags:
-    - Disaster
-    - Sociology
-    - Tech Dev
-    - Normal vs EM
+title: Tech in Emergency Management Cannot Follow the Standard Cycle
+subtitle: Or stop trying to save emergency management by coating it in technology
+tags: [Disaster, Sociology, Dev]
 ---
 
 Starting in 2013, I began to work in and around information communication technology being used during emergency response scenarios. I think my first paper was called, “[Run Amok: Group Crowd Participation in Identifying the Bomb and Bomber from the Boston Marathon Bombing](http://idl.iscram.org/files/tapia/2014/992_Tapia_etal2014.pdf).”
