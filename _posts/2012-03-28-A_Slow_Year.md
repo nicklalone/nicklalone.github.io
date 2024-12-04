@@ -3,6 +3,7 @@ layout: post
 title: One-Shot Review - A Slow Year
 description: One-Shot Review - A Slow Year
 summary: One-Shot Review - A Slow Year
+comments: true
 tags: [Review, Alternate Histories, Game History, New and Old, Video Games]
 ---
 
