@@ -4,12 +4,7 @@ author: "Nick"
 title: 'One-Shot Review: A Slow Year'
 date: 2012-03-28
 header-style: text
-tags:
-  - Review
-  - Alternate Histories
-  - Game History
-  - New and Old
-  - Video Games
+tags:[Review],[Alternate Histories],[Game History],[New and Old],[Video Games]
 ---
 
 In Austin, Texas about 6 or 7 years ago there was this strange rebirth of alternate ways of making and riding bicycles. Most would associate this with the generally weird and purposefully alternative atmosphere that makes Austin...weird. But as these bikes rode around town, people began to talk about how nostalgic these bikes were. It was as if they came from a different time, a time when the bicycle may have had a different future, a different look. It is with this nostalgia that we take a different sort of trip to a place where the future of video games could have been a different one. In this future, we will begin with Ian Bogost's _A Slow Year._ 
