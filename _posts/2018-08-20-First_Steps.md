@@ -1,15 +1,7 @@
 ---
 layout:       post
-title: 'First Steps with PICO-8'
-date: 2018-08-20
-author:       "Nick"
-header-style: text
-catalog:      true
-tags:
-  - PICO-8
-  - Fantasy Console
-  - Teaching Intro Programming
-  - Game Design
+title: First Steps with PICO-8
+tags: [PICO-8]
 ---
 
 What is code? Why do we write it in PICO-8? What does that mean?
