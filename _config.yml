@@ -1,5 +1,5 @@
 site: Homepage of Nick LaLone
-url: https://nicklalone.com
+url: "https://nicklalone.com"
 title: Thoughts about Games, Disaster, and the History of Computing
 description: Thoughts about Games, Disaster, and the History of Computing
 # twitter:
@@ -14,7 +14,7 @@ description: Thoughts about Games, Disaster, and the History of Computing
 #  url: #yoururl
 permalink: pretty
 
-baseurl: "https://nicklalone.com"
+baseurl: ""
 
 highlighter: none
 
