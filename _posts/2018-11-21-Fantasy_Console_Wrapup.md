@@ -1,14 +1,7 @@
 ---
 layout:       post
-title: 'Fantasy Console Class Semester Wrap-up'
-date: 2018-11-21
-author:       "Nick"
-header-style: text
-tags:
-  - PICO-8
-  - Fantasy Console
-  - Teaching Intro Programming
-  - Game Design
+title: Fantasy Console Class Semester Wrap-up
+tags: [PICO-8]
 ---
 
 My first course with PICO-8 as an introductory space for games programming is just about complete. What went right? What went wrong? This post gets into the weeds and explores what I need to change, adjust, and transform.
