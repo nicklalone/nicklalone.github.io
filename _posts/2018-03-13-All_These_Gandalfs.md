@@ -1,14 +1,7 @@
 ---
 layout:       post
-title: 'All These Gandalfs'
-date: 2018-08-08
-author:       "Nick"
-header-style: text
-tags:
-  - Actor-Network Theory
-  - Academia
-  - Dissertation
-  - Human-Computer Interaction
+title: All These Gandalfs
+tags: [ANT, Academia, Dissertation, HCI]
 ---
 
 Or how we all want to stay home instead of go on adventures. I wrote this introductory bit for my dissertation and i’m not sure it will stick with it so I thought i’d put it here.
