@@ -1,14 +1,7 @@
 ---
 layout:       post
-title: 'A Meaningful Play After Action Report'
-date: 2018-10-21
-author:       "Nick"
-header-style: text
-tags:
-  - Games Conference
-  - After Action
-  - Well-Played
-  - Game Design
+title: A Meaningful Play After Action Report
+tags: [Design]
 ---
 
 My relationship with games and game studies is often one of curiosity. I find the concept of ‘play’ useful yet I find that ‘play’ is more useful to study something else than it is to study games themselves. Despite this, I do try to keep an eye on games and game studies. There is always so much stuff to watch, so many authors to keep track of, and so many academic moves to remember.
