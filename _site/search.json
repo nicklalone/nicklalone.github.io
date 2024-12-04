@@ -4,9 +4,9 @@
 
       "title"    : "Tech in Emergency Management Cannot Follow the Standard Cycle",
       "description" : "",
-      "url"      : "https://nicklalone.com/2024/12/02/cannot-follow",
+      "url"      : "/2024/12/02/cannot-follow",
       "category" : "",
-      "tags"     : "Disaster, Sociology, Tech Dev, Normal vs EM",
+      "tags"     : "Disaster, Sociology, Dev",
       "date"     : "2024-12-02 00:00:00 -0500"
 
     } ,
@@ -15,9 +15,9 @@
 
       "title"    : "Vulnerability, Resilience, and Technology",
       "description" : "",
-      "url"      : "https://nicklalone.com/2024/12/01/emastechspert",
+      "url"      : "/2024/12/01/emastechspert",
       "category" : "",
-      "tags"     : "Resilience, Emergency Management, Tech Integration, Future of EM, Stats and Issues",
+      "tags"     : "Resilience",
       "date"     : "2024-12-01 00:00:00 -0500"
 
     } ,
@@ -26,9 +26,9 @@
 
       "title"    : "Consequences of a mobile fetish: logging back in to the virtual world after 10 years afk.",
       "description" : "",
-      "url"      : "https://nicklalone.com/2020/03/21/stalled-and-forgotten",
+      "url"      : "/2020/03/21/stalled-and-forgotten",
       "category" : "",
-      "tags"     : "Virtual Worlds, History, Trolling, Online Communities, MMORPG",
+      "tags"     : "Virtual Worlds",
       "date"     : "2020-03-21 00:00:00 -0400"
 
     } ,
@@ -37,9 +37,9 @@
 
       "title"    : "Fantasy Console Class Semester Wrap-up",
       "description" : "",
-      "url"      : "https://nicklalone.com/2018/11/21/fantasy-console-wrapup",
+      "url"      : "/2018/11/21/fantasy-console-wrapup",
       "category" : "",
-      "tags"     : "PICO-8, Fantasy Console, Teaching Intro Programming, Game Design",
+      "tags"     : "PICO-8",
       "date"     : "2018-11-21 00:00:00 -0500"
 
     } ,
@@ -48,9 +48,9 @@
 
       "title"    : "A Meaningful Play After Action Report",
       "description" : "",
-      "url"      : "https://nicklalone.com/2018/10/21/after-action",
+      "url"      : "/2018/10/21/after-action",
       "category" : "",
-      "tags"     : "Games Conference, After Action, Well-Played, Game Design",
+      "tags"     : "Design",
       "date"     : "2018-10-21 00:00:00 -0400"
 
     } ,
@@ -59,9 +59,9 @@
 
       "title"    : "First Steps with PICO-8",
       "description" : "",
-      "url"      : "https://nicklalone.com/2018/08/20/first-steps",
+      "url"      : "/2018/08/20/first-steps",
       "category" : "",
-      "tags"     : "PICO-8, Fantasy Console, Teaching Intro Programming, Game Design",
+      "tags"     : "PICO-8",
       "date"     : "2018-08-20 00:00:00 -0400"
 
     } ,
@@ -70,9 +70,9 @@
 
       "title"    : "Are Fantasy Consoles a Better Gateway to Learning How to Program? Learning Programming with PICO-8",
       "description" : "",
-      "url"      : "https://nicklalone.com/2018/08/08/are-fantasy-consoles",
+      "url"      : "/2018/08/08/are-fantasy-consoles",
       "category" : "",
-      "tags"     : "PICO-8, Fantasy Console, Teaching Intro Programming, Game Design",
+      "tags"     : "PICO-8",
       "date"     : "2018-08-08 00:00:00 -0400"
 
     } ,
@@ -81,10 +81,10 @@
 
       "title"    : "All These Gandalfs",
       "description" : "",
-      "url"      : "https://nicklalone.com/2018/08/08/all-these-gandalfs",
+      "url"      : "/2018/03/13/all-these-gandalfs",
       "category" : "",
-      "tags"     : "Actor-Network Theory, Academia, Dissertation, Human-Computer Interaction",
-      "date"     : "2018-08-08 00:00:00 -0400"
+      "tags"     : "ANT, Academia, Dissertation, HCI",
+      "date"     : "2018-03-13 00:00:00 -0400"
 
     } ,
   
@@ -92,9 +92,9 @@
 
       "title"    : "On the Impact of Nonhumans in Social Network Analysis",
       "description" : "",
-      "url"      : "https://nicklalone.com/2017/07/28/on-the-impact-of-nonhumans",
+      "url"      : "/2017/07/28/on-the-impact-of-nonhumans",
       "category" : "",
-      "tags"     : "SNA, Dissertation, Actor-Network Theory, HCI, Board Games",
+      "tags"     : "SNA, Dissertation, ANT, HCI, boardgames",
       "date"     : "2017-07-28 00:00:00 -0400"
 
     } ,
@@ -103,20 +103,20 @@
 
       "title"    : "Ludic Gatekeepers and the Unclear Simulation",
       "description" : "",
-      "url"      : "https://nicklalone.com/2015/02/09/syria-sim-writeup",
+      "url"      : "/2015/02/09/syria-sim-writeup",
       "category" : "",
-      "tags"     : "Simulation, Training, Dungeons and Dragons, Ludic, Board Games",
+      "tags"     : "Simulation, Training, DND, Ludic, Boardgames",
       "date"     : "2015-02-09 00:00:00 -0500"
 
     } ,
   
     {
 
-      "title"    : "One-Shot Review: A Slow Year",
-      "description" : "",
-      "url"      : "https://nicklalone.com/2012/03/28/a-slow-year",
+      "title"    : "One-Shot Review - A Slow Year",
+      "description" : "One-Shot Review - A Slow Year",
+      "url"      : "/2012/03/28/a-slow-year",
       "category" : "",
-      "tags"     : "Review, Alternate Histories, Game History, New and Old, Video Games",
+      "tags"     : "Review, History, Videogames",
       "date"     : "2012-03-28 00:00:00 -0400"
 
     } 

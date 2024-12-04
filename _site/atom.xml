@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Thoughts about Games, Disaster, and the History of Computing</title>
- <link href="http://localhost:4000https://nicklalone.com/atom.xml" rel="self"/>
- <link href="http://localhost:4000https://nicklalone.com/"/>
- <updated>2024-12-03T19:54:23-05:00</updated>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2024-12-03T21:22:44-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Tech in Emergency Management Cannot Follow the Standard Cycle</title>
-   <link href="http://localhost:4000https://nicklalone.com/2024/12/02/cannot-follow"/>
+   <link href="http://localhost:4000/2024/12/02/cannot-follow"/>
    <updated>2024-12-02T00:00:00-05:00</updated>
    <id>http://localhost:4000/2024/12/02/Cannot_Follow</id>
    <content type="html">&lt;p&gt;Starting in 2013, I began to work in and around information communication technology being used during emergency response scenarios. I think my first paper was called, “&lt;a href=&quot;http://idl.iscram.org/files/tapia/2014/992_Tapia_etal2014.pdf&quot;&gt;Run Amok: Group Crowd Participation in Identifying the Bomb and Bomber from the Boston Marathon Bombing&lt;/a&gt;.”&lt;/p&gt;
@@ -90,7 +90,7 @@
  
  <entry>
    <title>Vulnerability, Resilience, and Technology</title>
-   <link href="http://localhost:4000https://nicklalone.com/2024/12/01/emastechspert"/>
+   <link href="http://localhost:4000/2024/12/01/emastechspert"/>
    <updated>2024-12-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/2024/12/01/EMasTechspert</id>
    <content type="html">&lt;p&gt;I am a researcher of &lt;a href=&quot;https://www.interaction-design.org/literature/topics/socio-technical-systems&quot;&gt;the socio-technical&lt;/a&gt; that has made the jump from the social sciences, the socio, to the technical. This form of the jump is arguably more difficult because the social sciences are not as strict, literal, or frustrating as a computer, compiler, or interpreter. As my work in the technical spaces solidified and found a focus in emergency management (as a &lt;a href=&quot;https://tinyurl.com/crisisinformatics&quot;&gt;crisis informatics researcher&lt;/a&gt;), I have been left wondering what the place of emergency management is with regard to technology. I felt for a while that the place would be that of accessibility and technology as disasters, crisis, and uprisings can leave us immobile altogether disabled in ways that &lt;a href=&quot;https://www.sigaccess.org/&quot;&gt;this domain is focused on&lt;/a&gt;.&lt;/p&gt;
@@ -171,7 +171,7 @@ and logical statements. Yet there is no set logic in the methods themselves.&quo
  
  <entry>
    <title>Consequences of a mobile fetish: logging back in to the virtual world after 10 years afk.</title>
-   <link href="http://localhost:4000https://nicklalone.com/2020/03/21/stalled-and-forgotten"/>
+   <link href="http://localhost:4000/2020/03/21/stalled-and-forgotten"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
    <id>http://localhost:4000/2020/03/21/Stalled_and_forgotten</id>
    <content type="html">&lt;p&gt;With the Coronavirus coming around, so many of us are forced indoors for a time, forced into isolation where digital tools will be forced to become the norm. We’re already seeing things like &lt;a href=&quot;https://www.netflixparty.com/&quot;&gt;Netflix Party&lt;/a&gt; gain immediate popularity or exercise programs like &lt;a href=&quot;https://www.vice.com/en_us/article/m7q448/people-are-driving-for-hours-and-paying-hundreds-ring-fit&quot;&gt;Ring Fit Adventure&lt;/a&gt; sell out suddenly. I was struck by the similarities the pandemic response and social distancing has had to the year following the &lt;a href=&quot;https://www.history.com/topics/21st-century/9-11-attacks&quot;&gt;World Trade Center disaster&lt;/a&gt;. We all went inside, purchased a ton of food to make at home, and began to rethink about what was important in life.&lt;/p&gt;
@@ -261,7 +261,7 @@ and logical statements. Yet there is no set logic in the methods themselves.&quo
  
  <entry>
    <title>Fantasy Console Class Semester Wrap-up</title>
-   <link href="http://localhost:4000https://nicklalone.com/2018/11/21/fantasy-console-wrapup"/>
+   <link href="http://localhost:4000/2018/11/21/fantasy-console-wrapup"/>
    <updated>2018-11-21T00:00:00-05:00</updated>
    <id>http://localhost:4000/2018/11/21/Fantasy_Console_Wrapup</id>
    <content type="html">&lt;p&gt;My first course with PICO-8 as an introductory space for games programming is just about complete. What went right? What went wrong? This post gets into the weeds and explores what I need to change, adjust, and transform.&lt;/p&gt;
@@ -468,7 +468,7 @@ and logical statements. Yet there is no set logic in the methods themselves.&quo
  
  <entry>
    <title>A Meaningful Play After Action Report</title>
-   <link href="http://localhost:4000https://nicklalone.com/2018/10/21/after-action"/>
+   <link href="http://localhost:4000/2018/10/21/after-action"/>
    <updated>2018-10-21T00:00:00-04:00</updated>
    <id>http://localhost:4000/2018/10/21/after_action</id>
    <content type="html">&lt;p&gt;My relationship with games and game studies is often one of curiosity. I find the concept of ‘play’ useful yet I find that ‘play’ is more useful to study something else than it is to study games themselves. Despite this, I do try to keep an eye on games and game studies. There is always so much stuff to watch, so many authors to keep track of, and so many academic moves to remember.&lt;/p&gt;
@@ -567,7 +567,7 @@ and logical statements. Yet there is no set logic in the methods themselves.&quo
  
  <entry>
    <title>First Steps with PICO-8</title>
-   <link href="http://localhost:4000https://nicklalone.com/2018/08/20/first-steps"/>
+   <link href="http://localhost:4000/2018/08/20/first-steps"/>
    <updated>2018-08-20T00:00:00-04:00</updated>
    <id>http://localhost:4000/2018/08/20/First_Steps</id>
    <content type="html">&lt;p&gt;What is code? Why do we write it in PICO-8? What does that mean?&lt;/p&gt;
@@ -660,7 +660,7 @@ and logical statements. Yet there is no set logic in the methods themselves.&quo
  
  <entry>
    <title>Are Fantasy Consoles a Better Gateway to Learning How to Program? Learning Programming with PICO-8</title>
-   <link href="http://localhost:4000https://nicklalone.com/2018/08/08/are-fantasy-consoles"/>
+   <link href="http://localhost:4000/2018/08/08/are-fantasy-consoles"/>
    <updated>2018-08-08T00:00:00-04:00</updated>
    <id>http://localhost:4000/2018/08/08/Are_Fantasy_Consoles</id>
    <content type="html">&lt;p&gt;Fantasy Consoles are self-contained video game development environments so incredibly constrained that users have no choice but to learn how programming works.&lt;/p&gt;
@@ -851,9 +851,9 @@ and logical statements. Yet there is no set logic in the methods themselves.&quo
  
  <entry>
    <title>All These Gandalfs</title>
-   <link href="http://localhost:4000https://nicklalone.com/2018/08/08/all-these-gandalfs"/>
-   <updated>2018-08-08T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2018/08/08/All_These_Gandalfs</id>
+   <link href="http://localhost:4000/2018/03/13/all-these-gandalfs"/>
+   <updated>2018-03-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2018/03/13/All_These_Gandalfs</id>
    <content type="html">&lt;p&gt;Or how we all want to stay home instead of go on adventures. I wrote this introductory bit for my dissertation and i’m not sure it will stick with it so I thought i’d put it here.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*_ZCtIgV2PFqN2gv4kd_myQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -889,7 +889,7 @@ and logical statements. Yet there is no set logic in the methods themselves.&quo
  
  <entry>
    <title>On the Impact of Nonhumans in Social Network Analysis</title>
-   <link href="http://localhost:4000https://nicklalone.com/2017/07/28/on-the-impact-of-nonhumans"/>
+   <link href="http://localhost:4000/2017/07/28/on-the-impact-of-nonhumans"/>
    <updated>2017-07-28T00:00:00-04:00</updated>
    <id>http://localhost:4000/2017/07/28/on_the_impact_of_nonhumans</id>
    <content type="html">&lt;p&gt;I got some reviews back the other day on my first attempt to produce something from my dissertation research. Of the reviews, one aspect that stood out was that there was a need for “more detail.” Simple associations like those found in Social Network Analysis just aren’t enough for something substantial. And, for the most part, I agree.&lt;/p&gt;
@@ -983,7 +983,7 @@ Theories of play assemblages and technological agency have met popular acceptanc
  
  <entry>
    <title>Ludic Gatekeepers and the Unclear Simulation</title>
-   <link href="http://localhost:4000https://nicklalone.com/2015/02/09/syria-sim-writeup"/>
+   <link href="http://localhost:4000/2015/02/09/syria-sim-writeup"/>
    <updated>2015-02-09T00:00:00-05:00</updated>
    <id>http://localhost:4000/2015/02/09/Syria_sim_writeup</id>
    <content type="html">&lt;p&gt;In early 2014, I began to lay the groundwork for a simulation meant to train crisis management personnel on the growing impact of social media during response efforts. Later, this work would make its way into a proposal submitted on behalf of the Netherlands Organization for Applied Scientific Research (TNO) meant to do just that. Our proposal outlined the need and benefit of a simulation that was created to be engaged in-person, was &lt;a href=&quot;http://annex.ipacweb.org/library/conf/03/havighurst.pdf&quot;&gt;low fidelity&lt;/a&gt;, low technology, and meant for for resource strapped crisis management services in rural portions of the European Union. Simulations like these are invaluable for &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2966567/&quot;&gt;all manner of training&lt;/a&gt;.&lt;/p&gt;
@@ -1121,8 +1121,8 @@ Schick, L. (1991). Heroic Worlds. A History and Guide to Role-Playing Games, Buf
  </entry>
  
  <entry>
-   <title>One-Shot Review: A Slow Year</title>
-   <link href="http://localhost:4000https://nicklalone.com/2012/03/28/a-slow-year"/>
+   <title>One-Shot Review - A Slow Year</title>
+   <link href="http://localhost:4000/2012/03/28/a-slow-year"/>
    <updated>2012-03-28T00:00:00-04:00</updated>
    <id>http://localhost:4000/2012/03/28/A_Slow_Year</id>
    <content type="html">&lt;p&gt;In Austin, Texas about 6 or 7 years ago there was this strange rebirth of alternate ways of making and riding bicycles. Most would associate this with the generally weird and purposefully alternative atmosphere that makes Austin…weird. But as these bikes rode around town, people began to talk about how nostalgic these bikes were. It was as if they came from a different time, a time when the bicycle may have had a different future, a different look. It is with this nostalgia that we take a different sort of trip to a place where the future of video games could have been a different one. In this future, we will begin with Ian Bogost’s &lt;em&gt;A Slow Year.&lt;/em&gt;&lt;/p&gt;
@@ -1133,7 +1133,7 @@ Schick, L. (1991). Heroic Worlds. A History and Guide to Role-Playing Games, Buf
 
 &lt;p&gt;How things change and how technologies diverge or converge over time is a constant topic of discussion when a product gains a permanent foothold in culture. The fervor of this conversation fades quickly as that particular technology gains a universal, almost invisible status until it is finally displaced by something new. There, the cycle begins all over again. In our age of nostalgia, this is becoming more and more common, especially in popular culture. The easiest example to use is the movie &lt;em&gt;Super 8&lt;/em&gt; and the way it tried to capture our nostalgia for E.T. by taking Spielberg’s work and attempting to bring a sense of the present from the past.&lt;/p&gt;
 
-&lt;p&gt;There is almost a desperation to this furious re-working of nostalgia. Re-using ideas has never been as obvious as it is right now as we enter into HD Remakes, Re-boots, and alternate realities for characters who have been around for centuries. The desperation behind all of this feels a little sad, almost fleeting. It is as if the &lt;a href=&quot;http://www.poetryfoundation.org/poem/178055&quot;&gt;Phillip Larkin poem&lt;/a&gt;, “This be the verse” has somehow inserted itself into the fabric of capitalism:&lt;/p&gt;
+&lt;p&gt;There is almost a desperation to this furious re-working of nostalgia. Re-using ideas has never been as obvious as it is right now as we enter into HD Remakes, Re-boots, and alternate realities for characters who have been around for centuries. The desperation behind all of this feels a little sad, almost fleeting. It is as if the &lt;a href=&quot;http://www.poetryfoundation.org/poem/178055&quot;&gt;Phillip Larkin poem&lt;/a&gt;, “This be the verse” has somehow inserted itself into the fabric of capitalism:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“They fuck you up, your mum and dad.
@@ -1148,7 +1148,7 @@ And add some extra, just for you.”&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://3.bp.blogspot.com/-kBYN-6sunro/T3PGVChlR5I/AAAAAAAAGwo/0POXJg-czyk/s1600/516w54LpdrL.jpg&quot;&gt;&lt;img src=&quot;http://3.bp.blogspot.com/-kBYN-6sunro/T3PGVChlR5I/AAAAAAAAGwo/0POXJg-czyk/s1600/516w54LpdrL.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;With that in mind, let me explain what a gamer does in &lt;em&gt;A Slow Year.&lt;/em&gt; In short, this game is simple enough to explain. There are 4 different “games,” each representing a season. Each season is a digitized poem, represented by a series of what could only be referred to as “meditative actions.” In the fall, we watch the leaves fall off of trees, in the winter, we sit at a table sipping coffee while looking out at the freshly fallen snow. Each season is governed by the gamer’s need to press a button but for me, I felt like it wasn’t needed. &lt;em&gt;A Slow Year&lt;/em&gt; is about meditating.&lt;/p&gt;
+&lt;p&gt;With that in mind, let me explain what a gamer does in &lt;em&gt;A Slow Year.&lt;/em&gt; In short, this game is simple enough to explain. There are 4 different “games,” each representing a season. Each season is a digitized poem, represented by a series of what could only be referred to as “meditative actions.” In the fall, we watch the leaves fall off of trees, in the winter, we sit at a table sipping coffee while looking out at the freshly fallen snow. Each season is governed by the gamer’s need to press a button but for me, I felt like it wasn’t needed. &lt;em&gt;A Slow Year&lt;/em&gt; is about meditating.&lt;/p&gt;
 
 &lt;p&gt;In fact, this meditation is augmented by poetry generated by a machine. There are 1000 machined Haiku (the earliest conceptualization I know of this is from &lt;a href=&quot;http://www.in-vacua.com/cgi-bin/haiku.pl&quot;&gt;Margaret Masterman and Robin McKinnon-Wood&lt;/a&gt; in 1968). These poems are unique and actually far more complex when meaning is attempted to be applied to them than the poems people make when they write in the Haiku book I have in my bathroom for guests to write in. One of my favorites is Poem 216:&lt;/p&gt;
 
@@ -1156,13 +1156,13 @@ And add some extra, just for you.”&lt;/p&gt;
   &lt;p&gt;The wheeze bangs a breeze / A gusty patch kills a tree / Breaths can caress it&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;em&gt;A Slow Year&lt;/em&gt; takes the assumptions of our present world, ones that we seem to be trying to do something with through all of these re-imaginings of older times, but doesn’t try to re-establish them with the technology as it is now. Instead, &lt;em&gt;A Slow Year&lt;/em&gt; tries to ask a question of us all - What would have happened if games like &lt;em&gt;A Slow Year&lt;/em&gt; had been created when this type of game was the technological equivalent of &lt;em&gt;Crysis?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A Slow Year&lt;/em&gt; takes the assumptions of our present world, ones that we seem to be trying to do something with through all of these re-imaginings of older times, but doesn’t try to re-establish them with the technology as it is now. Instead, &lt;em&gt;A Slow Year&lt;/em&gt; tries to ask a question of us all - What would have happened if games like &lt;em&gt;A Slow Year&lt;/em&gt; had been created when this type of game was the technological equivalent of &lt;em&gt;Crysis?&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Unlike all of the things this game made me think of, &lt;em&gt;A Slow Year&lt;/em&gt; isn’t about nostalgia, it is about regret. In the trying times we exist in currently, &lt;em&gt;A Slow Year&lt;/em&gt; asks us if we had started down a different path, would we have managed to get to this exact same place? &lt;/p&gt;
+&lt;p&gt;Unlike all of the things this game made me think of, &lt;em&gt;A Slow Year&lt;/em&gt; isn’t about nostalgia, it is about regret. In the trying times we exist in currently, &lt;em&gt;A Slow Year&lt;/em&gt; asks us if we had started down a different path, would we have managed to get to this exact same place?&lt;/p&gt;
 
 &lt;p&gt;Probably not. If we take the gamer as they exist today, I do not believe this game would resonate with them. There is not really a lot of modern gameplay here, no achievements, nothing more than pressing a button or moving a cursor to catch leaves. This makes the game something of an anomaly because &lt;em&gt;A Slow Year&lt;/em&gt; is something that gamers need. We need to be reminded that virtualization of procedure, of the world around us, of our fiction, need not always be imbued with war and competition. &lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;A Slow Year&lt;/em&gt; can be purchased from &lt;a href=&quot;http://www.opentexture.com/products/aslowyear/&quot;&gt;Open Texture&lt;/a&gt; and re-purposed Atari Cartridges by &lt;a href=&quot;http://www.bogost.com/games/game_poems.shtml&quot;&gt;contacting him through the various ways people can contact each other&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A Slow Year&lt;/em&gt; can be purchased from &lt;a href=&quot;http://www.opentexture.com/products/aslowyear/&quot;&gt;Open Texture&lt;/a&gt; and re-purposed Atari Cartridges by &lt;a href=&quot;http://www.bogost.com/games/game_poems.shtml&quot;&gt;contacting him through the various ways people can contact each other&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
