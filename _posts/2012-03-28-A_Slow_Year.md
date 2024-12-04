@@ -1,8 +1,8 @@
 ---
 layout: post
-author: "Nick"
-title: 'One-Shot Review: A Slow Year'
-date: 2012-03-28
+title: One-Shot Review: A Slow Year
+description: One-Shot Review: A Slow Year
+summary: One-Shot Review: A Slow Year
 tags:[Review, Alternate Histories, Game History, New and Old, Video Games]
 ---
 
