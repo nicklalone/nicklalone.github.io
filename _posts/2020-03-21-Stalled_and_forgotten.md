@@ -1,15 +1,7 @@
 ---
 layout:       post
 title: 'Consequences of a mobile fetish: logging back in to the virtual world after 10 years afk.'
-date: 2020-03-21
-author:       "Nick"
-header-style: text
-tags:
-  - Virtual Worlds
-  - History
-  - Trolling
-  - Online Communities
-  - MMORPG
+tags: [Virtual Worlds]
 ---
 
 With the Coronavirus coming around, so many of us are forced indoors for a time, forced into isolation where digital tools will be forced to become the norm. We’re already seeing things like [Netflix Party](https://www.netflixparty.com/) gain immediate popularity or exercise programs like [Ring Fit Adventure](https://www.vice.com/en_us/article/m7q448/people-are-driving-for-hours-and-paying-hundreds-ring-fit) sell out suddenly. I was struck by the similarities the pandemic response and social distancing has had to the year following the [World Trade Center disaster](https://www.history.com/topics/21st-century/9-11-attacks). We all went inside, purchased a ton of food to make at home, and began to rethink about what was important in life.
