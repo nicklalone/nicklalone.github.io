@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-### Welcome! 
-<hr>
 My name is Nick LaLone and I am an Assistant Professor at the Rochester Institute of Technology in the School of Interactive Games and Media. My work focuses primarily on risk, equity, and technology's role with risk. By risk, I mean to say how precarious human settlements are with regard to natural (i.e. Earthquakes, Fires, Flooding, etc) and technological hazards (i.e. Ransomware, hacking attacks, and other forms of losses of control). 
 
 I approach this work in 3 ways: 
