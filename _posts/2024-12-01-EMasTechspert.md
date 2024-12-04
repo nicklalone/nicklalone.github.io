@@ -1,16 +1,8 @@
 ---
 layout: post
-title: "Vulnerability, Resilience, and Technology"
-subtitle: "Why Emergency Management Should Be a Leader in Technology"
-author: "Nick"
-header-img: "img/planningp.png"
-header-mask: 0.4
-tags:
-  - Resilience
-  - Emergency Management
-  - Tech Integration
-  - Future of EM
-  - Stats and Issues
+title: Vulnerability, Resilience, and Technology
+subtitle: Why Emergency Management Should Be a Leader in Technology
+tags: [Resilience]
 ---
 
 I am a researcher of [the socio-technical](https://www.interaction-design.org/literature/topics/socio-technical-systems) that has made the jump from the social sciences, the socio, to the technical. This form of the jump is arguably more difficult because the social sciences are not as strict, literal, or frustrating as a computer, compiler, or interpreter. As my work in the technical spaces solidified and found a focus in emergency management (as a [crisis informatics researcher](https://tinyurl.com/crisisinformatics)), I have been left wondering what the place of emergency management is with regard to technology. I felt for a while that the place would be that of accessibility and technology as disasters, crisis, and uprisings can leave us immobile altogether disabled in ways that [this domain is focused on](https://www.sigaccess.org/).
