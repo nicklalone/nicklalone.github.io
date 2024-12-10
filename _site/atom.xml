@@ -4,13 +4,212 @@
  <title>Thoughts about Games, Disaster, and the History of Computing</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-12-03T21:30:20-05:00</updated>
+ <updated>2024-12-09T12:59:04-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Games as Summary or The Missing Mass of Games Doesn’t Have to Be Impermeable</title>
+   <link href="http://localhost:4000/2024/12/05/games-as-summary"/>
+   <updated>2024-12-05T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2024/12/05/Games_As_Summary</id>
+   <content type="html">&lt;p&gt;In my formative years as a student in sociology (2004–12), I was pushed into the study of games by my mentors. They felt that because of books like &lt;a href=&quot;https://mitpress.mit.edu/books/barbier-mortal-kombat&quot;&gt;&lt;em&gt;Barbie to Mortal Kombat&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.press.umich.edu/1597570/my_life_as_a_night_elf_priest&quot;&gt;&lt;em&gt;My Life as a Night Elf Priest&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&quot;http://www.juliandibbell.com/mytinylife/tinyspiel.html&quot;&gt;&lt;em&gt;My Tiny Life&lt;/em&gt;&lt;/a&gt; that the study of games, of internet culture, would become a formative aspect of sociology moving forward. At the time, sociologists were increasingly interested in what people were doing online and compared to the way that Sociology had partially helped to demonize arcades, I was happy to see that their interest in these newly spreading online subcultures was not similarly constructed.&lt;/p&gt;
+
+&lt;p&gt;Yet, as I read the research I could find and attempted to write about what I was observing, I found myself increasingly interested in not only the material objects that surrounded games, but everything inside the playground or magic circle. From the electricity to the hardware, from the code embedded within the media to the medium itself, there were infinite microcosms to study and yet, all I had access to as a Sociology were people and this gate was policed heavily. My first attempts to write about games were not only rejected, but violently so. I was reminded of a quote from Simmel who said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If one compares our culture with that of a hundred years ago, then one may surely say — subject to many individual exceptions — that the things that determine and surround our lives such as tools, means of transport, the products of science, technology and art, are extremely refined. Yet individual culture, at least in the higher strata, has not progressed at all to the same extent; indeed, it has even frequently declined. — George Simmel: &lt;a href=&quot;https://www.google.com/books/edition/Simmel_on_Culture/pzFLxDxBFPgC?hl=en&amp;amp;gbpv=1&amp;amp;dq=%22Simmel%22+%22Simmel+on+culture%3A+selected+writings%22+&amp;amp;pg=PA38&amp;amp;printsec=frontcover#v=onepage&amp;amp;q=technology&amp;amp;f=false&quot;&gt;On Culture&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As this was the general composition of my reviews. “Technology doesn’t matter to culture.” Yet, since that time it has become increasingly difficult to make this argument. In fact, &lt;a href=&quot;https://www.alandix.com/academic/papers/JVLC-2016-HCI-FNP/&quot;&gt;much of society is beginning to be mediated by technology&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;At the time, I felt that maybe I could do what sociology wanted. Sure, people could be representations within the games. Sure, people could be fans, makers, reviewers, journalists, salespeople, and programmers. Sure, people could be on box art, in commercials, portrayed plot points, and customized as avatars; however, I kept coming back to the intersection. The most interesting aspect of games was the intersection of what made them work, the way they were created, how they ran, how they changed over time in concurrence with the people and objects within each of those contexts.&lt;/p&gt;
+
+&lt;p&gt;The code that made the game work, the mechanics and art created to foster immersion in the playground, the processor and the limitations its speed placed on designers, the hardware and its constant tension of upgrading, patches that shifted play completely, the room games were played in, the communication tools used to mediate communication between players and designers, hacks, addons, and even the media itself were all missing.&lt;/p&gt;
+
+&lt;p&gt;I was even more frustrated that in studying the people of games or the game as a text, that much of the object of inquiry was missing. And within what was missing was the history of all games that led up to this moment, this text, this product of inquiry. And within that frustration was an additional truth in that I had no methodological tools through which to access everything at once.&lt;/p&gt;
+
+&lt;p&gt;As a result, I began to learn how programming languages worked, but again, I was only able to access those languages currently in use. Languages like C, C++, C#, Java, Action Script, Python, and other languages like those. As I began to dig through discussions of these languages, I found myself mired in things like “design,” “user studies,” and “human computer interaction.” Each of these fields did the same thing as sociology’s methods but from the inverse. Only the software, hardware, and affordances really mattered. While users were often called out, these were typically switches between 0 did not accept design and 1 did accept design. On occasion there were calls to a 2 or “did something unexpected.”&lt;/p&gt;
+
+&lt;p&gt;And so attempting to do only inquiry about humans resulted in seeking new tools that fostered inquiry into technical objects sans humans. I attempted to engage the digital humanities in seeking new methods but again, found that the issues from social science and computer science were replicated within the digital humanities. And so the fix, the way I sought to expand my methods of inquiry were again thwarted.&lt;/p&gt;
+
+&lt;p&gt;It was here that I began to expand and find new allies. In this case, history was a reasonable next step, as was creating a Frankenstein.&lt;/p&gt;
+
+&lt;p&gt;I began to look backward to see if perhaps historical methods could help me find a way to unite these things. I started with 4 distinct spots:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;“The Turk” or the chess playing automaton that wasn’t really automated.&lt;/li&gt;
+  &lt;li&gt;“&lt;a href=&quot;http://www.visbox.com/prajlich/forster.html&quot;&gt;The Machine Stops&lt;/a&gt;” from E. M. Forster, a short story about a culture dependent on machines from the era of Sociology’s golden age (early 1900s) where it consistently negated the impact of non-human objects.&lt;/li&gt;
+  &lt;li&gt;The history of &lt;em&gt;Dungeons and Dragons&lt;/em&gt;. This game represents a different / &lt;a href=&quot;https://www.secretsofblackmoor.com/&quot;&gt;alternative history to that which became the computer&lt;/a&gt;. It also serves as a way to foster play with computers though much of that is buried in those spaces methods cannot access.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Robinson Crusoe&lt;/em&gt; and &lt;em&gt;Friday, the Other Island&lt;/em&gt;. If Crusoe was indeed the birthplace of what a modern person was meant to be like, perhaps this text could offer me insights. Additionally, the satirical account &lt;em&gt;Friday, the Other Island&lt;/em&gt;, provided a useful dialectic to engage.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In each of these cases, I was grasping at straws for a way to understand the socio-technical system by way of pushing for both socio- and -technical to be balanced in their representation. I knew that games were a useful space of inquiry because Chess and its automation (Turk is an example of this (even if it was fake) but also &lt;a href=&quot;https://www.bmigaming.com/videogamehistory.htm&quot;&gt;Draughts&lt;/a&gt;/Checkers in some ways) was important to the development of computers while the history of &lt;em&gt;Dungeons and Dragons&lt;/em&gt; allowed me to unite war, computation, play, and shifts in what we called upon to prove things.&lt;/p&gt;
+
+&lt;p&gt;I wrote about the &lt;a href=&quot;https://analoggamestudies.org/2019/09/a-tale-of-dungeons-dragons-and-the-origins-of-the-game-platform/&quot;&gt;history of &lt;em&gt;Dungeons and Dragons&lt;/em&gt; as an endpoint for development that occurred throughout the 19th century&lt;/a&gt;. This allowed me to understand what Clausewitz meant when he criticized the war game stating it separated logic and emotion and would lead to issues in the future. “The Machine Stops” reflected those woes as the technologies coming out of the first World War provided ample inspiration for Forster to see what would inevitably occur.&lt;/p&gt;
+
+&lt;p&gt;Exploring history, exploring methods, and now having been trained as a technologist, a social scientist, and an amateur historian mostly just left me confused about what to do next. And this was a bad time to be confused as I was heading in to writing my dissertation. I knew I wanted to somehow work this content in. At the end of my rope, I had a realization.&lt;/p&gt;
+
+&lt;p&gt;It was actually a combination of 1,3, and 4 that helped me realize that I was not asking the right question. In essence, I wanted to find a method that allowed me to engage assemblages of humans and non-humans simultaneously. Yet, if technology is made by people to do something people need, then a networked way of understanding data is something that needs to be made manifest. While &lt;a href=&quot;https://www.amazon.com/Actor-Network-Theory-Trials-Trails-Translations/dp/1446293955/ref=sr_1_1?dchild=1&amp;amp;keywords=mike+michael+actor-network&amp;amp;qid=1621129145&amp;amp;sr=8-1&quot;&gt;Actor-Network Theory was an attempt to do just that&lt;/a&gt;, &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1111/gec3.12192&quot;&gt;ANT has been bogged down in the politics of attempting to reconfigure how the social sciences understand power&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a result, ANT wasn’t a useful construct to immerse myself in. However, its tenets and basic premise provide useful building blocks for augmenting existing methods. For example, a network made of associations could act as a type of measurement, pre-defining actors could be a way to contextualize association, and summarizing them within a given space could provide useful data needed for the creation of products. I just needed something like an A/B test to consider when it occurred to me that if I took an activity like playing a game and compared that activity when a computer was mediating the game, then I could glimpse the impact of computation on the formation of a network in real time.&lt;/p&gt;
+
+&lt;p&gt;And by network, I mean that everything at the table, &lt;em&gt;everything&lt;/em&gt; would need to be cataloged and &lt;a href=&quot;https://etda.libraries.psu.edu/catalog/15635njl164&quot;&gt;evaluated according to the associations&lt;/a&gt; it had over the course of the game. In doing this, I could watch multiple networks form, persist, and dissolve. I could essentially watch players enter a magic circle, measure what portions of the magic circle were used by the players, and see the consequences of automating play by the processor. In essence, I wanted to consider playing a game something that looked like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:1400/1*82miOLagToPE-97ASi1Sdw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;An exploded diagram of a gear pump.&lt;/p&gt;
+
+&lt;p&gt;And it worked! When play occurs, every piece within the magic circle becomes part of an assemblage, a network, that forms, persists, and dissolves in similar ways each time it is engaged. The differences (compared to a mechanical object) are essentially ways that intended design didn’t quite work or perhaps could be considered in future work.&lt;/p&gt;
+
+&lt;p&gt;While I won’t regurgitate my dissertation, the data and analysis from it essentially showed that computation doesn’t really impact sociality at the table, it lowers the cognitive load of the activity thus affording them the surplus energy to attend to other networks with other tools.&lt;/p&gt;
+
+&lt;p&gt;In essence, automating play, or perhaps digital play in general, lowers cognitive load and all we have left to contend with is psychological measures like flow, immersion, addiction, and other forms of keeping players glued to their screen.&lt;/p&gt;
+
+&lt;p&gt;I’ve recently &lt;a href=&quot;https://www.dropbox.com/s/jhyjdbz0fff32o7/LaLone%20-%20512207_1_En_23_Chapter_Author.pdf?dl=0&quot;&gt;written an invited paper about Association Mapping&lt;/a&gt; that is more tightly coupled to games and i hope to do more data collection in the future.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>3 Tenets on the Integration of Information Technology with Emergency Management</title>
+   <link href="http://localhost:4000/2024/12/04/ict-integration"/>
+   <updated>2024-12-04T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2024/12/04/ICT_integration</id>
+   <content type="html">&lt;p&gt;In the past few years, i’ve been working on better defining how technology and emergency management (EM) can play well together. It is a project that feels mostly like trying to get fire to be wet or convincing the color orange to be purple.&lt;/p&gt;
+
+&lt;p&gt;Current technology is often bloated in terms of memory usage, &lt;a href=&quot;https://www.tomshardware.com/news/windows-11-sends-user-data-to-third-party-services&quot;&gt;filled with subroutines that monitor all of our activity&lt;/a&gt; or simply provide the makers with endless data about their users. Or, at best, it is simply robbing us of our attention span. For example, &lt;a href=&quot;https://www.cnn.com/2023/01/11/health/short-attention-span-wellness/index.html&quot;&gt;this article notes&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“In 2004, we measured the average attention on a screen to be 2½ minutes,” Mark said. “Some years later, we found attention spans to be about 75 seconds. Now we find people can only pay attention to one screen for an average of 47 seconds.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And yet, we see endless calls for tech and EM to work together without much really being done to help consumers, potential victims of a hazard event, connect with EM through the tech those tech companies have created. This, more than tech integration for things like situation awareness or new products or platforms, is what tech integration could and should look like.&lt;/p&gt;
+
+&lt;p&gt;From the EM perspective as it waits for the tech industry to dot their i’s and cross the t’s of the things they’ve made, there is a whole other potential way to think about tech integration. It seems to me that what EM should be doing is helping humanity prepare for the various consequences of everything we’ve been doing in the tech sector. Because, if anything, tech will be (and has been) the source of additional, ride-a-long, or supplemental hazard events as we’ve become more tech dependent.&lt;/p&gt;
+
+&lt;p&gt;A lot of the inspiration for this particular approach came from (of all things) &lt;em&gt;Godzilla vs Hedorah&lt;/em&gt; wherein a creature from another galaxy crash lands on earth in the midst of some of our heaviest years of pollution. Hedorah feeds off of this pollution and by the end of the movie, humanity recognizes what they have done and begin to work against themselves.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:1000/0*A5Zf9x-6Dfdde666.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Godzilla vs Hedorah really provides hyperbole about what we’re doing to ourselves, our planet, and each other. This type of movie cannot be made today without it being ripped to shreds by folks who’s livelihood depends on not accepting the responsibility of their actions. For example, the creature begins to grow due to an oil tanker colliding with another oil tanker. This level of pollution results in a potentially more destructive force than Godzilla who was created by American Nuclear Bomb testing.&lt;/p&gt;
+
+&lt;p&gt;There is a frustrating amount of potential with regard to the uses of technology that tech firms tend to ignore (or buy their way out of — e.g. OnStar hosting call centers instead of writing software that notifies 9–1–1 of an accident upon detection, cell phone companies being more amenable to allowing PSAPs to access mobile phones directly, and other issues around POTS/VOIP).&lt;/p&gt;
+
+&lt;p&gt;This lack of engagement makes sense as it is not a profit serving space for those tech companies. It would require tech firms to navigate civic structures of varying levels (local, state, federal, national) or, at best, to enter in to an endless process of creating and maintaining infrastructure independent of profit-generating enterprise.&lt;/p&gt;
+
+&lt;p&gt;Concurrent to this lack of engagement with EM in general, there is a frustrating lack of engagement of tech that EM practitioners also do. Much like that of the tech firms, any EM practitioner engaging with tech must face a stark, militaristic collection of policies and procedures that were written before technology existed in its current ubiquity, and it shows no sign of being adjusted as the resources required would probably require every budget for every EOC in the country to be quadrupled and combined together…and it probably still wouldn’t be enough.&lt;/p&gt;
+
+&lt;p&gt;And everywhere in between we see firms and EM practitioners doing the thing that parents do with kids, “talk to your mom” and when you talk to your mom, “talk to your dad.” And this endless cycle continues ad nauseam.&lt;/p&gt;
+
+&lt;p&gt;So what to do?&lt;/p&gt;
+
+&lt;p&gt;I’ve written previously about the “&lt;a href=&quot;https://nick-lalone.medium.com/tech-in-emergency-management-cannot-follow-the-standard-cycle-79899770231f&quot;&gt;Right Mindset&lt;/a&gt;” needed for tech in EM. Coating yourself in tech, teaching use instead of literacy, and creating tools without actual buy-in (having 1 or 2 stakeholders doesn’t count) from EM practice just doesn’t work. This needs to be said because this is the standard operating procedures for tech itself.&lt;/p&gt;
+
+&lt;p&gt;To that end, I think there are some ways to really begin to foster a mindset for tech adoption in EM that works. They need to encapsulate 3 distinct aspects of EM: analytics, what is best encapsulated by the word, “analytics, and, basic tech skills.” While each of these are marked by terms that carry their own baggage, they’re much more pointed.&lt;/p&gt;
+
+&lt;p&gt;The 3 tenets that form the foundation upon which technology use in EM could be built are best summarized as:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;EM Technology should primarily be used &lt;em&gt;before&lt;/em&gt; a hazard event for planning and mitigation analytics (analytics).&lt;/li&gt;
+  &lt;li&gt;EM’s response technology needs to work &lt;em&gt;during&lt;/em&gt; a response when all other technology doesn’t work or focus on extensible solutions for infrastructure damage (city planning).&lt;/li&gt;
+  &lt;li&gt;EM’s &lt;em&gt;everyday&lt;/em&gt; focus on technology should be primarily around the concept of the risks they create (basic tech skills).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Each tenet requires an intense amount of work but even a shallow approach of these tenets would result in a sizable step toward a public discussion and requirement to assume responsibility for the risks companies manufacture.&lt;/p&gt;
+
+&lt;h2 id=&quot;before--analytics-and-em&quot;&gt;Before — Analytics and EM&lt;/h2&gt;
+
+&lt;p&gt;There are so, so many things to begin with here. From Supply chains, to models of equity, to models of risk, this is perhaps the easiest aspect of the tech industry to support because it is inexpensive, useful, and can really help given that the tech industry itself is responsible for the massive amount of (useless) data that exists.&lt;/p&gt;
+
+&lt;p&gt;I can remember interviewing for my current job with a statistics professor. He provided for me a discussion of &lt;a href=&quot;https://en.wikipedia.org/wiki/Pareto_chart&quot;&gt;Pareto Charts&lt;/a&gt;. I remember us talking about putting price tags on everything all over the city into a spreadsheet that would accept a feed from the PSAP. Each incident would impact a particular region and you’d prioritize based on cost, based on potential costs, and based on the cost to dispatch. This idea isn’t that great, really, because it revolves around money and so this means the rich parts of town will always, &lt;em&gt;always&lt;/em&gt; get prioritized. Yet, we can consider risk, we can use the “risk indices” that have been developed over the years and actually correct them, validate them (&lt;a href=&quot;https://www.rand.org/pubs/research_reports/RRA1083-1.html&quot;&gt;because they aren’t right now&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;What analytics can do is relatively simple. I’ll make it into a list:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Help EM get past the “Whole Community Approach”&lt;/em&gt; which is just &lt;em&gt;not&lt;/em&gt; working but gives EM practitioners a pass when they make plans using it. By focusing on actually crunching numbers, even a weighted distribution or quota system (as troublesome as they are) would be better than the current modes of approach.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Supply Chain Maintenance&lt;/em&gt; is something that just often isn’t done. There was a story from Hurricane Maria about some guy’s computer getting broken which then resulted in the entire supply chain for Puerto Rico to be lost. While EM blamed much of this on the “corruption of local officials” there was significant blame to be spread all over the place. You may ask why or what this has to do with analytics and mostly this is the supplemental part of it. In order to &lt;em&gt;do&lt;/em&gt; analytics, one needs to understand the entire pipeline of data gathering to data cleaning to the creation of new information and this means a whole lot of understanding of “basic computing” as well as “basic analytics.”&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The Future of Emergency Management&lt;/em&gt; is something that has been difficult to discern. While there are more frequent, and will be more frequent hazards in the future, there has been little done to embrace the future. Where analytics and computing can help here is to do something that is done in the EU and elsewhere, but not here in the US, to collect and examine After-Action Reports to understand the whole of EM’s efforts on all kinds of disaster at once. This is also an entry point for training Artificial Intelligence though AI’s use in EM is far, far off.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And this is just a brief discussion of where analytics can help EM. The wonderful part of this type of work is that it requires a user become a lot more intimately connected to their computers. From use of command lines to installation of packages to the scraping, gathering, and manipulation of large amounts of data, this skillset is a huge boon to EM and is something I am actively pursuing.&lt;/p&gt;
+
+&lt;h2 id=&quot;during--em-tech-needs-to-work-when-nothing-else-does&quot;&gt;During — EM Tech Needs to Work When Nothing Else Does&lt;/h2&gt;
+
+&lt;p&gt;This is a fancy way of saying that if the &lt;a href=&quot;https://ssir.org/books/excerpts/entry/smart_cities_big_data_civic_hackers_and_the_quest_for_a_new_utopia&quot;&gt;Smart Cities&lt;/a&gt; initiatives are to be taken seriously, we need to make sure that EM is involved with the re-design of cities. It isn’t enough to re-design the cities around technology. Re-designing cities around cars was absolutely horrendous and it may destroy the planet before we get around to trying something else.&lt;/p&gt;
+
+&lt;p&gt;What can EM do with designing cities, you may ask?&lt;/p&gt;
+
+&lt;p&gt;Well, already we see things like Fire Hydrants, Fire Extinguishers, Hoses, Ladders, Fire Doors, and things that matter in a disaster. However, these things are also just a tiny part of preparation for the kinds of things the earth creates. Buildings are almost always filled to the brim with poison in the form of plastic. They are filled with inadequate capabilities to deal with all manner of potential hazard events that we do not prepare well for. Things like building in an earthquake zone should require Earthquake proofing of some kind or another. Building in a flood plain should require adequate measures that will replace what is demolished while building.&lt;/p&gt;
+
+&lt;p&gt;We need to treat cities as large-scale designed environments like we do with the cities inside of large video games. In this way, EM can get involved with city design by providing context for all manner of way that we endanger ourselves.&lt;/p&gt;
+
+&lt;p&gt;In addition, there are some technologies that could be useful for what we need. For example, what we do need are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mesh Networks that activate upon a hazard event.&lt;/li&gt;
+  &lt;li&gt;Extensible Software that is set up to access those meshes.&lt;/li&gt;
+  &lt;li&gt;Apps that activate in a disaster declaration to use on those mesh networks.&lt;/li&gt;
+  &lt;li&gt;Access to phone location data during a disaster.&lt;/li&gt;
+  &lt;li&gt;Indoor-based location services.&lt;/li&gt;
+  &lt;li&gt;A way to gather locations of devices, their activity, and various ways that electronics are being used post-disaster.&lt;/li&gt;
+  &lt;li&gt;Cities that break in ways that afford residents with materials to use for shelters.&lt;/li&gt;
+  &lt;li&gt;More frequent shelters built before a disaster.&lt;/li&gt;
+  &lt;li&gt;Training and materials that provide residents with spaces and places to go in the midst of a disaster.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In short, what the above list is is essentially stuff that already exists but not in a way that EM can use. Extensible software is of interest to me specifically as we already see untold numbers of folks in disaster going nuts with improvising all sorts of things with tech that isn’t mean to do what it is being used for.&lt;/p&gt;
+
+&lt;p&gt;This level of “hacking” or re-designing something in real time was so prevalent in the early days of computing. Bringing parts of this back for EM to advise on and potentially request is nothing short of a victory over capitalism and profit. Speaking of this capacity of advising, the last tenet is just that, EM should be a risk grader of all tech that reaches a certain threshold.&lt;/p&gt;
+
+&lt;h2 id=&quot;all-the-time--em-should-focus-on-risk-created-by-tech&quot;&gt;All the time — EM Should Focus on Risk Created by Tech&lt;/h2&gt;
+
+&lt;p&gt;EM understands and deals with catastrophe created by risk. Or to be more plain, it concentrates on things when human culture has failed, receded, or has otherwise disappeared. In this vein, it seems pertinent that the easiest way of integrating technology with EM is to foster the idea that EM should be producing content focused on how different technologies will fare should a hazard event occur. Like the FDA, where EM can help is by assigning something like a risk modifier to each new technology that is released at local, regional, state, federal, and national levels.&lt;/p&gt;
+
+&lt;p&gt;But what does this mean?&lt;/p&gt;
+
+&lt;p&gt;Well, disasters are not created by a single hazard event like a tornado or an earthquake. Instead, the local area is made more and more fragile as humanity inserts itself into an area where particular hazard events may or may not take place. Each house, strip mall, telephone pole, road, drive-way, underground wire, sewer, automobile, truck, moped, and person weakens an area. That weakness impacts the natural abilities of the earth we build on to protect us from the elements. It also raises the risk of each individual that lives within an area.&lt;/p&gt;
+
+&lt;p&gt;And all that there is to really protect us from ourselves is an EM agency, group, or volunteer group. We have no protections from ourselves, from the companies producing any of the list above. We have no protections from technology companies, from manufacturing processes, and we do not have any sort of mechanism through which to hoist responsibilities for the risks created by those companies.&lt;/p&gt;
+
+&lt;p&gt;While we see some calls for this through texts like &lt;a href=&quot;https://www.amazon.com/Ruined-by-Design-Mike-Monteiro-audiobook/dp/B07WPSLVC8/ref=sr_1_1?crid=2RGLSWRDRZ45W&amp;amp;keywords=design+destroyed+the+world&amp;amp;qid=1676989716&amp;amp;sprefix=design+destroyed+the+world%2Caps%2C113&amp;amp;sr=8-1&quot;&gt;Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It&lt;/a&gt;, there has been little to no movement within government spaces to begin to regulate or at least outline how tech companies, how any company, should be held responsible for their part in risk. This is where the potential elevation of EM back to a cabinet level agency would move from a fantastic move for mitigation to a fantastic move in general.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-how-to-get-there&quot;&gt;So how to get there?&lt;/h2&gt;
+
+&lt;p&gt;These 3 tenets provide a robust collection of impulses, energies, and focuses for any developer looking to deal with the risks of the social lives of the everyday non-human. But the question that should be asked of any post like this remains, “How do we get there?”&lt;/p&gt;
+
+&lt;p&gt;This, like any largescale effort, begins with a step. Initially, these steps are things like trainings, white papers, partnerships, experimentation, and a whole lot of very ugly public discussion.&lt;/p&gt;
+
+&lt;p&gt;There is a rather large roadblock of public opinion about the government due to increased risk of some groups over time. And so, equity must be pursued against portions of the political sphere’s call for anything involving equity to be called, “CRT.”&lt;/p&gt;
+
+&lt;p&gt;So how do we get there? Not easily.&lt;/p&gt;
+
+&lt;p&gt;The central problem isn’t the lack of an agency or the lack of regulation, it’s the lack of interest in our own safety because we aren’t all actively in peril all of the time. And yet, this is becoming harder and harder to deny. Whether it be a rising frequency of hazard events, a rising severity of events, or humanity noticing how much they’ve put themselves at peril, risk will define this century and mitigation must become normalized should we desire to survive in the centuries that will follow.&lt;/p&gt;
+
+&lt;h2 id=&quot;finishing-up&quot;&gt;Finishing Up&lt;/h2&gt;
+
+&lt;p&gt;In the end, I suppose this entire article is a way of saying, “Let’s actually build what EM wants versus trying to take existing, subpar products and force it on EM.” In addition, we suggest that EM should become a home for labeling the risk inherent in all technologies whether it be focused on a calorie-like label on products that describe how it increases risks under certain conditions.&lt;/p&gt;
+
+&lt;p&gt;Is any of this possible? Sure. As we &lt;a href=&quot;http://www.bruno-latour.fr/sites/default/files/downloads/P-202-AOC-ENGLISH_1.pdf&quot;&gt;learned from COVID&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The first lesson the coronavirus has taught us is also the most astounding: we have actually proven that it is possible, in a few weeks, to put an economic system on hold everywhere in the world and at the same time, a system that we were told it was impossible to slow down or redirect. To every ecologist’s argument about changing our ways of life, there was always the opposing argument about the irreversible force of the ‘train of progress’ that nothing could derail ‘because of globalisation’, they would say. And yet it is precisely its globalised character that makes this infamous development so fragile, so likely to do the opposite and come to a screeching halt.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And so what, if anything, we have learned in recent memory is that we actually can be responsible despite those who would benefit from irresponsible inaction in the face over an overwhelming need for action.&lt;/p&gt;
+
+&lt;p&gt;All we need is a thing to respond to that includes or is focused on the needs above. A good example of this is &lt;a href=&quot;https://www.govinfo.gov/content/pkg/CHRG-107hhrg73728/html/CHRG-107hhrg73728.htm&quot;&gt;cell phone integration with 9–1–1&lt;/a&gt;. While this is still probably a good couple decades away from full integration, that this moment exists in history is something to be inspired, calmed, or even get a little hopeful for despite the constant delaying tactic of waivers. After all, this has happened before and in the hearings about cell phone integration with 9–1–1, we see this quote that is hugely relevant today:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nevertheless, the public safety community urges that the Commission be firm and, to the extent possible, hold the carriers to the existing deadlines, because lives are at stake. Every day of delay is another day that the public is at risk because of the inability to quickly and accurately locate emergencies reported on wireless telephones.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Perhaps this time though, we can avoid constant delays and waivers of responsibility in favor of mitigating avoidable deaths rather than waiting until the death count is so high that public furor forces actions that should have been taken far sooner.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tech in Emergency Management Cannot Follow the Standard Cycle</title>
