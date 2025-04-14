@@ -19,7 +19,7 @@ And so, we've essentially taken the various aspects in and around video games an
 
 In fact, we attempted to run a special issue related to history and computing which itself was the result of a workshop at CSCW just before COVID. That special issue's introduction can be found here: [(Re) Connecting History to the Theory and Praxis of HCI](https://dl.acm.org/doi/full/10.1145/3589804).
 
--
+---
 
 But there's something missing in a lot of this. We are poking and prodding at some type of scab, wound, rash, or callus that needs to be dealt with. The red spot on this body is that the series of events that began with the desire to accurately map France, birthed the computer through endless conflicts in the late 1800s through the mid 1940s, saw an attempt to model human cognition in a variety of ways, and is currently addicted to a pattern matching machine we now call artificial intelligence is basically missing something. 
 
@@ -33,7 +33,7 @@ And through all of this, we see a relatively frustrating amount of resistance to
 
 So we see a potential project begin to form through Latour's method that he outlines in [*An Inquiry into Modes of Existence*](http://modesofexistence.org/inquiry/). But to see the project form, we must define our object of inquiry rather than calling it a singularity that not even Matty Mac can save us from.
 
--
+---
 
 Just what is this unknowable object and how could we move it toward becoming an object of inquiry through which we can begin to unravel this [ghost of the 9th (or 10th depending on Pluto's status) Planet X](https://www.youtube.com/watch?v=5B19_7O5Dg4&ab_channel=BRIGHTSIDESeries). 
 
@@ -82,6 +82,8 @@ And if we look at it in video games based on *D&D* it's interesting in how it is
 *Secret of the Silver Blades:*
 
 >Charisma (CHA) is the measure of how others react to a character. Charisma is sometimes a factor when the character has an encounter with NPCs. The higher a character's charisma, the more that character can persuade others to do what he wants. The character with the highest charisma should be the active character when parlaying.
+
+---
 	
 Outside of games relevant to *D&D*, this stat is often used for shops, checks against persuasion, and things like this. And yet, it remains inconsistently defined as it is invoked in almost all of these games. When we look at videogames inspired by *D&D* (which is most of them), there's a unique opportunity to look at how it has changed over time. 
 
