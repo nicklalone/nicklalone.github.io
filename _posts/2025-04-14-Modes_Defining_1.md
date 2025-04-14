@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modes of Existence: Chapter 1 - Defining Charisma as an Object of Inquiry
+title: Modes of Existence Chapter 1 - Defining Charisma as an Object of Inquiry
 tags: [Latour, Modes, Dungeons and Dragons, Charisma]
 ---
 
