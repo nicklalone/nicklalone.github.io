@@ -3,13 +3,17 @@ layout: page
 title: Welcome!
 ---
 
-![](me.jpg)
+![](/img/me.jpg)
 
-I am Nick LaLone, an Assistant Professor at the Rochester Institute of Technology in the School of Interactive Games and Media. As a researcher saddled between social and technical concerns. So while I can program things, I am equally interested in the social life of technical objects, how technology influences and is influenced by society, and other types of problems. 
+As a researcher of the socio-technical, it is sometimes difficult to describe exactly what I do for a living. 
 
-Within that space, I focus on where technology helps and hinders those in the midst of a disaster. In addition to that focus on people needing to be safe, I also research how to train emergency managers, first responders, and folks in emergency services in ways that promote integration with information communication technologies. This is why i'm in a games program.
+My name is Nick LaLone and I am an Assistant Professor at the Rochester Institute of Technology in the School of Interactive Games and Media. My traditional focus in my work are those contexts where normalcy breaks down, where technology often isn't meant to work, and above all, the social contract is damaged, broken, strained, or otherwise removed. 
 
-Below, i've tried to wirte a plain english description of my work, its goals, its aims, and philosophy. After that, i've tried to translate my work into the disciplines I send my work to. 
+I have a background in Sociology that was messed up by a PhD in Human-Computer Interaction. As a result, I am often stuck between social and technical concerns. I can write code, work with hardware, and other technical objects; however, I am equally capable in the social life of those technical objects, how technology influences and is influenced by society, and other types of issues that keep us uncomfortable and saying things like, "This isn't intuitive" or "Do your research." 
+
+Some may ask why i'm in a games program. This is an interesting question. Generally, we spend our lives as children playing in order to learn how to live in the world we will become an adult in. Once we become an adult, the way we define play tends to mean that we no longer are playing but are doing. And yet, this is very far from the truth. I am in a games program because I can still consider how we play, how games can play, and what impact professionalism has on play
+
+Below, i've tried to write a plain english description of my work, its goals, its aims, and philosophy. After that, i've tried to translate my work into the disciplines I send my work to. 
 
 The purpose of all this description is for potential students to quickly learn a lot about me. I am interested in PhD students who can understand technical objects (because our PhD program assumes you're an adept programmer already) as well as:
 
