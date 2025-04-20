@@ -11,7 +11,7 @@ My name is Nick LaLone and I am an Assistant Professor at the Rochester Institut
 
 I have a background in Sociology that was messed up by a PhD in Human-Computer Interaction. As a result, I am often stuck between social and technical concerns. I can write code, work with hardware, and other technical objects; however, I am equally capable in the social life of those technical objects, how technology influences and is influenced by society, and other types of issues that keep us uncomfortable and saying things like, "This isn't intuitive" or "Do your research." 
 
-Some may ask why i'm in a games program. This is an interesting question. Generally, we spend our lives as children playing in order to learn how to live in the world we will become an adult in. Once we become an adult, the way we define play tends to mean that we no longer are playing but are doing. And yet, this is very far from the truth. I am in a games program because I can still consider how we play, how games can play, and what impact professionalism has on play
+Some may ask why i'm in a games program. This is an interesting question. Generally, we spend our lives as children playing in order to learn how to live in the world we will become an adult in. Once we become an adult, the way we define play tends to mean that we no longer are playing but are doing. And yet, this is very far from the truth. I am in a games program because I can still consider how we play, how games can play, and what impact professionalism has on play. 
 
 Below, i've tried to write a plain english description of my work, its goals, its aims, and philosophy. After that, i've tried to translate my work into the disciplines I send my work to. 
 
@@ -28,22 +28,22 @@ Click one of the above for a description of my work.
 
 ### <a id="pe"></a>Plain English
 
-A few years ago, Leysia Palen and Ken Anderson published a paper in a journal called Science. In this article, they lament about how emergnecy management hasn't ever been curious about the computer. They say: 
+A few years ago, Leysia Palen and Ken Anderson published a paper in a journal called *Science*. In this article, they lament about how emergency management hasn't ever been curious about the computer. They say: 
 
 	Yet in the world of emergency management, we often 
 	see a demand for science that “proves” behaviors.
 
 If we are going to force emergency management to use technology, to change the very nature of how a practice functions, then we need to show that what we'd like to do is actually a net benefit and not needless fiddling. And yet, we keep attempting to fiddle without proving anything.
 
-This is the basis of my career.
+While this piece discusses emergency management, I generally apply this concept to every part of my career.
 
-To me, I need to simultaneously *prove that information communication technology can work as a useful tool in the midst of small to large scale hazard events* whild also *changing the fundamental nature of technological development* to include the inevitable use of a device used by consumers for everything to ask for help that device. 
+To me, I need to simultaneously *prove that information communication technology can work as a useful tool in whatever industry i'm working with* while also *changing the fundamental nature of technological development* to include the inevitable use of a device used by consumers for everything. 
 
-In the meantime, hundreds, thousands, or millions of people are simultnaeously doing the same thing. Innumerable cries for help while those who can help have no capacity to know where a device is, how to gather and organize those cries efficiently, or how to share that information privately to those in the field in any meaningful way.
+While I have concentrated on disaster contexts, this work is easily extended to almost any space that requires human-machine pairings. Technology needs to be trained to work in specific contexts for specific reasons that are both alterable and adjustable over time.
 
-So I tend to work as a translator. I learn about how emergency management works, its disparate approaches couched in policy history, and do the same with Sociology, Computer Science, Disaster Science, and more. 
+So I tend to work as a translator. I learn about how an industry works. Along the way, I also engage with that industry's disparate approaches couched in policy as well as other kinds of academic research. 
 
-I take that quote from Palen and Anderson not as an admission of failure, but as a realization for the importance of the work. And so I assmble allies, push against work being done without sufficient foundational research, and seek ways to expand the training of emergency managers in ways that promote practice that can not only change and adapt, but ask for more from folks seeking to develop new tools.
+I take that quote from Palen and Anderson not as an admission of failure, but as a realization for the importance of the work. And so I assemble allies, push against work being done without sufficient foundational research, and seek ways to expand the training of emergency managers in ways that promote practice that can not only change and adapt, but ask for more from folks seeking to develop new tools.
 
 ### <a id="hci"></a>Human Computer Interaction
 
