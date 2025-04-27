@@ -7,11 +7,11 @@ title: Welcome!
 
 As a researcher of the socio-technical, it is sometimes difficult to describe exactly what I do for a living. 
 
-My name is Nick LaLone and I am an Assistant Professor at the Rochester Institute of Technology in the School of Interactive Games and Media. My traditional focus in my work are those contexts where normalcy breaks down, where technology often isn't meant to work, and above all, the social contract is damaged, broken, strained, or otherwise removed. 
+I am an Assistant Professor at the Rochester Institute of Technology in the School of Interactive Games and Media. My traditional focus in my work are those contexts where normalcy breaks down, where technology often isn't meant to work, and above all, the social contract is damaged, broken, strained, or otherwise removed. Generally, this means that I will study disaster contexts, how folks train for disaster contexts, and the gap between how technology works and how technology isn't designed for a world that itself needs to be able-bodied.
 
 I have a background in Sociology that was messed up by a PhD in Human-Computer Interaction. As a result, I am often stuck between social and technical concerns. I can write code, work with hardware, and other technical objects; however, I am equally capable in the social life of those technical objects, how technology influences and is influenced by society, and other types of issues that keep us uncomfortable and saying things like, "This isn't intuitive" or "Do your research." 
 
-Some may ask why i'm in a games program. This is an interesting question. Generally, we spend our lives as children playing in order to learn how to live in the world we will become an adult in. Once we become an adult, the way we define play tends to mean that we no longer are playing but are doing. And yet, this is very far from the truth. I am in a games program because I can still consider how we play, how games can play, and what impact professionalism has on play. 
+You may wonder why i'm in a games program. This is an interesting question. Generally, we spend our lives as children playing in order to learn how to live in the world we will become an adult in. Once we become an adult, the way we define play tends to mean that we no longer are playing but are doing. And yet, this is very far from the truth. I am in a games program because I can still consider how we play, how games can play, and what impact professionalism has on play. 
 
 Below, i've tried to write a plain english description of my work, its goals, its aims, and philosophy. After that, i've tried to translate my work into the disciplines I send my work to. 
 
@@ -28,12 +28,11 @@ Click one of the above for a description of my work.
 
 ### <a id="pe"></a>Plain English
 
-A few years ago, Leysia Palen and Ken Anderson published a paper in a journal called *Science*. In this article, they lament about how emergency management hasn't ever been curious about the computer. They say: 
+I am often focused on disaster contexts. How do we ask for help? How do those people who are meant to hear our asking for help hear us? How do we coordinate everything? And so, I try and look at the technologies, the training, the people, and the situations they find themselves in. And yet, technology is often a problem. The best way to consider it came around A few years ago. Leysia Palen and Ken Anderson published a paper in a journal called *Science*. In this article, they lament about how emergency management hasn't ever been curious about the computer. They say: 
 
-	Yet in the world of emergency management, we often 
-	see a demand for science that “proves” behaviors.
+>Yet in the world of emergency management, we often see a demand for science that “proves” behaviors.
 
-If we are going to force emergency management to use technology, to change the very nature of how a practice functions, then we need to show that what we'd like to do is actually a net benefit and not needless fiddling. And yet, we keep attempting to fiddle without proving anything.
+If we are going to force a group to use information communication technology, then often times we will need to "prove" that it works. And yet, we ignore the way technology requires us to be versus the reality of those who would respond to disaster. In order to change the very nature of how a practice functions, then we need to show that what we'd like to do is actually a net benefit and not needless fiddling. And yet, we keep attempting to fiddle without proving anything.
 
 While this piece discusses emergency management, I generally apply this concept to every part of my career.
 
