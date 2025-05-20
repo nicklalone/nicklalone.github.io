@@ -70,7 +70,7 @@ Typically, I will pursue some form of participatory design where I work with fol
 	* As a sociologist, I worry all the time about the very fabric of society becoming digitized and that we will manifest it as poorly designed, poorly optimized apps or artificial intelligence. This piece focuses on that very topic and discusses ways that (to be very succinct), society itself has become a user. 
 
 3. Dourish, Paul. Where the action is. Cambridge: MIT press, 2001.
-	* While this book focuses on launching ubiquitous computing, I tend to use it as a way to describe a fundamental problem in computing. That problem is relatively simple, we have never changed how computers work. We stare at rectangles, click on things arranged in a rectangle, and that's about it. Even in Virtual Reality where we could look at *anything* any way we wanted, we still stick with rectangles. 
+	* While this book focuses on launching ubiquitous computing, I tend to use it as a way to describe a fundamental problem in computing. That problem is relatively simple, we have never changed how computers work. We stare at rectangles, click on things arranged in a rectangle, and that's about it. Even in Virtual Reality where we could look at *anything* any way we wanted, we still stick with rectangles. So there are aspects of design that tend to be unchangable. As a result, we tend to look toward the space of interaction and its underlying logic. I tend to think of this text as a justification of the idea that would come to dominate software design: 1-off apps. 
 
 4. Harrison, Steve, Phoebe Sengers, and Deborah Tatar. "Making epistemological trouble: Third-paradigm HCI as successor science." Interacting with computers 23.5 (2011): 385-392.
 	* In sociology, my background is in gender studies and so I tend to see technology use as masculine, militaristic, and forcibly conformist. This piece does a fantastic job of making good trouble. To me, the spreading of work focusing on standpoint epistemology is fine, but I tend to use this piece in an effort to unbury the ontologies that form the basis of those epistemologies. This is why I often will focus on history as we can evaluate previous standpoints and their connections to new ones. 
@@ -80,7 +80,9 @@ Typically, I will pursue some form of participatory design where I work with fol
 
 ### <a id="gs"></a>Game Studies
 
-In sociology, I was asked to read *Homo Ludens* as a Masters Student. I had been struggling to understand the nature of play in society and how games essentially canned play.
+In sociology, I was asked to read *Homo Ludens* as a Masters Student. I had been struggling to understand the nature of play in society and how games essentially canned play. I then began a journey through the intersection of pop culture, internet culture, media studies, and more. To me, game studies is the study of an almost invisible aspect of humanity, how we learn to be human. There are innumerable rules, procedures, policies, and expectations that exist. If we start reducing them and reducing them, and reducing them, we can see an origin of society, of culture, with the establishing of the first rule and the first keepers of rules, the first codifying of the word **play**.
+
+Play, to me is best defined by Ian Bogost who says play is, "." And play is both not serious and *very serious* as we see things like fighting disease, war, 
 
 Cooperative play
 Development of ttrpgs
