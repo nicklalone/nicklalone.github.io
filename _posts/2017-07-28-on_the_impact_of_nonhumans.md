@@ -1,7 +1,10 @@
 ---
-layout: post
+author: Nick LaLone
+date: 2017-07-28 12:00:00 +0800
 title: On the Impact of Nonhumans in Social Network Analysis
+categories: [Simulation Observation]
 tags: [SNA, Dissertation, ANT, HCI, boardgames]
+render_with_liquid: false
 ---
 
 I got some reviews back the other day on my first attempt to produce something from my dissertation research. Of the reviews, one aspect that stood out was that there was a need for “more detail.” Simple associations like those found in Social Network Analysis just aren’t enough for something substantial. And, for the most part, I agree.

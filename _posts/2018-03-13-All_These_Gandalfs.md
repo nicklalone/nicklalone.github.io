@@ -1,6 +1,8 @@
 ---
-layout:       post
+author: Nick LaLone
+date: 2018-03-13 12:00:00 +0800
 title: All These Gandalfs
+categories: [Simulation Observation]
 tags: [ANT, Academia, Dissertation, HCI]
 ---
 
