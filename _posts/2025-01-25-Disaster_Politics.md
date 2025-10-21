@@ -2,7 +2,7 @@
 author: Nick LaLone
 date: 2025-01-25 12:00:00 +0800
 title: Emergency Management in the Age of Destruction or the Consequences of Not Treating Politics as an Essential Part of Mitigation
-categories: [Emergnency Management]
+categories: [Emergency Management]
 tags: [Disaster, Emergency Management, Politics]
 render_with_liquid: false
 ---

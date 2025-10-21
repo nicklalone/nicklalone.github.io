@@ -2,7 +2,7 @@
 author: Nick LaLone
 date: 2025-04-09 12:00:00 +0800
 title: Resilient Computing - Expanding Use Scenarios to Catastrophic Events
-categories: [Emergnency Management]
+categories: [Emergency Management]
 tags: [Disaster, Emergency Management, Resilience]
 render_with_liquid: false
 ---
