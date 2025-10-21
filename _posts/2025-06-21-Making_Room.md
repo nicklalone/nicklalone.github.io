@@ -1,6 +1,6 @@
 ---
 author: Nick LaLone
-date: 2018-06-21 12:00:00 +0800
+date: 2025-06-21
 title: Modes of Existence - Chapter 4
 categories: [Games, Actor-Network-Theory, Sociology]
 tags: [Latour, Modes, Dungeons and Dragons, Charisma]

@@ -1,6 +1,6 @@
 ---
 author: Nick LaLone
-date: 2018-06-21 12:00:00 +0800
+date: 2025-06-24 12:00:00 +0800
 categories: [Games, Actor-Network-Theory, Sociology]
 title: Modes of Existence - Chapter 6 - Defects
 tags: [Latour, Modes, Dungeons and Dragons, Charisma]
