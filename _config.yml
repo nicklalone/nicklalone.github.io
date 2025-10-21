@@ -39,8 +39,8 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # example
-  - https://github.com/nicklalone # change to your GitHub homepage
-  - https://www.linkedin.com/in/nicklalone
+    - https://github.com/nicklalone # change to your GitHub homepage
+    - https://www.linkedin.com/in/nicklalone
 
 # Site Verification Settings
 webmaster_verifications:
@@ -131,9 +131,7 @@ comments:
 assets:
   self_host:
     enabled: true
-    # specify the Jekyll environment, empty means both
-    # only works if `assets.self_host.enabled` is 'true'
-    env: # [development | production]
+    env: development
 
 pwa:
   enabled: true # The option for PWA feature (installable)
