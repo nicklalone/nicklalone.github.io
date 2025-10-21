@@ -22,12 +22,12 @@ Below, i've tried to write a description of my work, its goals, its aims, and ph
 
 The purpose of all this description is for potential students to quickly learn a lot about me. I am interested in PhD students who can understand technical objects (because our PhD program assumes you're an adept programmer already) as well as:
 
-1. Plain English
-2. Human-Computer Interaction
-3. Game Studies
-5. Disaster Science
-3. Sociology
-4. Humanities
+1. [Plain English](#plain-english)
+2. [Human-Computer Interaction](#human-computer-interaction)
+3. [Game Studies](#game-studies)
+5. [Disaster Science](#disaster-science)
+3. [Sociology](#sociology)
+4. [Humanities](#humanities)
 
 Click one of the above for a description of my work. 
 
