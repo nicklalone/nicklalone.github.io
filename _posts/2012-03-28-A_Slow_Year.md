@@ -8,7 +8,7 @@ tags: [Review, History, Videogames]
 
 In Austin, Texas about 6 or 7 years ago there was this strange rebirth of alternate ways of making and riding bicycles. Most would associate this with the generally weird and purposefully alternative atmosphere that makes Austin...weird. But as these bikes rode around town, people began to talk about how nostalgic these bikes were. It was as if they came from a different time, a time when the bicycle may have had a different future, a different look. It is with this nostalgia that we take a different sort of trip to a place where the future of video games could have been a different one. In this future, we will begin with Ian Bogost's _A Slow Year._ 
 
-[![](https://3.bp.blogspot.com/--JHdpKyH4Fc/T3O-ZpyYLBI/AAAAAAAAGwc/cHQ9Sr7AuOc/s320/image_7713450.jpg)](http://3.bp.blogspot.com/--JHdpKyH4Fc/T3O-ZpyYLBI/AAAAAAAAGwc/cHQ9Sr7AuOc/s1600/image_7713450.jpg)
+[![](https://3.bp.blogspot.com/--JHdpKyH4Fc/T3O-ZpyYLBI/AAAAAAAAGwc/cHQ9Sr7AuOc/s320/image_7713450.jpg)](https://3.bp.blogspot.com/--JHdpKyH4Fc/T3O-ZpyYLBI/AAAAAAAAGwc/cHQ9Sr7AuOc/s1600/image_7713450.jpg)
 
 [Todd Kundla](https://www.likecool.com/Mutant_bicycles_by_Todd_Kundla--Bike--Gear.html) - Not from Austin but he rode one of his bikes here as fast as he could
 
@@ -27,7 +27,7 @@ You could say that the re-make craze currently happening is an attempt to take o
 
 So what does any of this have to do with an Atari 2600 game Ian Bogost released in 2010? Well, at least for this reviewer, the experience of this game really made me wonder about how video games have developed throughout time. In particular, I wondered if something have gone differently that would have allowed games to leave the "masculine" space they currently exist in?
 
-[![](https://3.bp.blogspot.com/-kBYN-6sunro/T3PGVChlR5I/AAAAAAAAGwo/0POXJg-czyk/s1600/516w54LpdrL.jpg)](http://3.bp.blogspot.com/-kBYN-6sunro/T3PGVChlR5I/AAAAAAAAGwo/0POXJg-czyk/s1600/516w54LpdrL.jpg)
+[![](https://3.bp.blogspot.com/-kBYN-6sunro/T3PGVChlR5I/AAAAAAAAGwo/0POXJg-czyk/s1600/516w54LpdrL.jpg)](https://3.bp.blogspot.com/-kBYN-6sunro/T3PGVChlR5I/AAAAAAAAGwo/0POXJg-czyk/s1600/516w54LpdrL.jpg)
 
 With that in mind, let me explain what a gamer does in _A Slow Year._ In short, this game is simple enough to explain. There are 4 different "games," each representing a season. Each season is a digitized poem, represented by a series of what could only be referred to as "meditative actions." In the fall, we watch the leaves fall off of trees, in the winter, we sit at a table sipping coffee while looking out at the freshly fallen snow. Each season is governed by the gamer's need to press a button but for me, I felt like it wasn't needed. _A Slow Year_ is about meditating. 
 

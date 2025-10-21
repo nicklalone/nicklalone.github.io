@@ -46,11 +46,11 @@ As an observer, I made a point to spend time in the controller’s office quite 
 
 Whereas a traditional simulation or traditional role-play would look like this:  
 
-[![](https://4.bp.blogspot.com/-4zIpqA4LZ8w/VNjv1jmcVOI/AAAAAAAAeDo/oFYk2CeB70k/s1600/structure.PNG)](http://4.bp.blogspot.com/-4zIpqA4LZ8w/VNjv1jmcVOI/AAAAAAAAeDo/oFYk2CeB70k/s1600/structure.PNG)
+[![](https://4.bp.blogspot.com/-4zIpqA4LZ8w/VNjv1jmcVOI/AAAAAAAAeDo/oFYk2CeB70k/s1600/structure.PNG)](https://4.bp.blogspot.com/-4zIpqA4LZ8w/VNjv1jmcVOI/AAAAAAAAeDo/oFYk2CeB70k/s1600/structure.PNG)
 
 With the various players circulating knowledge among themselves all the while being filtered and partially controlled by the Dungeon Master, this role-play was structured like this:  
 
-[![](https://3.bp.blogspot.com/-Zg8SiHrg8r0/VNjuQ4TD_gI/AAAAAAAAeDM/nqcLaBDN3z8/s1600/ed%2Bstructure.PNG)](http://3.bp.blogspot.com/-Zg8SiHrg8r0/VNjuQ4TD_gI/AAAAAAAAeDM/nqcLaBDN3z8/s1600/ed%2Bstructure.PNG)
+[![](https://3.bp.blogspot.com/-Zg8SiHrg8r0/VNjuQ4TD_gI/AAAAAAAAeDM/nqcLaBDN3z8/s1600/ed%2Bstructure.PNG)](https://3.bp.blogspot.com/-Zg8SiHrg8r0/VNjuQ4TD_gI/AAAAAAAAeDM/nqcLaBDN3z8/s1600/ed%2Bstructure.PNG)
 
 The additional layer between the world and the players is perhaps the most significant contributor to the eventual success of the simulation itself. The advisers, themselves playing a role that they had actually held, served as holders of knowledge. It was as if each member of each of the acting groups of this particular simulation had an avatar of that group's norms and values.  
 
@@ -67,7 +67,7 @@ During the simulation debrief, a concept about how either side of this simulatio
 **Preparation and Rules**  
 Something interesting shows up when one looks at the results of the post-simulation survey. The results looked like this:  
 
-[![](https://3.bp.blogspot.com/-VftHoKz0Ljc/VNjuQwE757I/AAAAAAAAeDU/Sh2hH7FDjA4/s1600/qs.PNG)](http://3.bp.blogspot.com/-VftHoKz0Ljc/VNjuQwE757I/AAAAAAAAeDU/Sh2hH7FDjA4/s1600/qs.PNG)
+[![](https://3.bp.blogspot.com/-VftHoKz0Ljc/VNjuQwE757I/AAAAAAAAeDU/Sh2hH7FDjA4/s1600/qs.PNG)](https://3.bp.blogspot.com/-VftHoKz0Ljc/VNjuQwE757I/AAAAAAAAeDU/Sh2hH7FDjA4/s1600/qs.PNG)
 
 *   Q1: How much time did you spend preparing?
 *   Q2: How useful were the background materials?
