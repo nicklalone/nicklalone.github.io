@@ -7,7 +7,7 @@ tags: [Disaster, Sociology, Dev]
 render_with_liquid: false
 ---
 
-Starting in 2013, I began to work in and around information communication technology being used during emergency response scenarios. I think my first paper was called, “[Run Amok: Group Crowd Participation in Identifying the Bomb and Bomber from the Boston Marathon Bombing](http://idl.iscram.org/files/tapia/2014/992_Tapia_etal2014.pdf).”
+Starting in 2013, I began to work in and around information communication technology being used during emergency response scenarios. I think my first paper was called, “[Run Amok: Group Crowd Participation in Identifying the Bomb and Bomber from the Boston Marathon Bombing](https://idl.iscram.org/files/tapia/2014/992_Tapia_etal2014.pdf).”
 
 [The folks I worked with did and still focus heavily on how information retrieval, human-in-the-loop machine learning, and artificial intelligence can be used during a response to disasters.](https://tinyurl.com/crisisinformatics) While this work has been amazing, much of it follows the way that all technology is developed. _Nearly all work on technology in disaster has been done without talking to practitioners or if they did, did not involve them in anything more than an advisory capacity._
 

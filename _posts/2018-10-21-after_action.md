@@ -21,7 +21,7 @@ I wanted to write up a brief collection of thoughts based on the 3 separate sess
 
 ![Master Thieves provides a vehicle through which students can experience a kind of play typically unavailable in most modern games.](https://cdn-images-1.medium.com/max/2000/1*3wOGaIvAEM4E6DCpRKizww.jpeg)*Master Thieves provides a vehicle through which students can experience a kind of play typically unavailable in most modern games.*
 
-### Session 1 — [Teaching Game Development to Different Types of Students](http://meaningfulplay.msu.edu/program.php?session=111)
+### Session 1 — [Teaching Game Development to Different Types of Students](https://meaningfulplay.msu.edu/program.php?session=111)
 
 I recently began to teach social scientists and various kinds of non-technical students how programming works. This is no easy task and it has provided an unusually fruitful series of lectures, demonstrations, and writings that will probably influence my understanding of technical concepts for quite some time.
 
@@ -45,7 +45,7 @@ I want to call this something like, “exploration of pencils in computer langua
 
 Once the pencil is understood, then we can start experimenting more with them. We can start using new techniques and ideas about pencils. We can do more design. This needs to be developed further.
 
-### Session 2 — [Serious Play on Twitch: Experiments in Academic Streaming](http://meaningfulplay.msu.edu/program.php?session=112)
+### Session 2 — [Serious Play on Twitch: Experiments in Academic Streaming](https://meaningfulplay.msu.edu/program.php?session=112)
 
 The second session I attended had to do with streaming academia. A while back when I was in the midst of the hellscape that was my dissertation, I noticed someone was streaming their daily writing routine. In response, I started to do this as well. It felt good trying to share the loneliness of the academic mode. Additionally, the community of folks surrounding the writing portions of Twitch.tv afforded me a small ability to connect some of my work to that of others.
 
@@ -61,15 +61,15 @@ This session was an excellent catalyst for further thought and I hope to see it 
 
 ![This 2-player game called RESISTOR_ allows 2-players to try and connect wires and paths to one another. It is a unique game because i’m playing with the front of the cards I have but also the backs of the cards of the other player. It uses memory in ways I haven’t seen before.](https://cdn-images-1.medium.com/max/2000/1*p-xTPKJyLs9Hn8yZANJifA.jpeg)*This 2-player game called RESISTOR_ allows 2-players to try and connect wires and paths to one another. It is a unique game because i’m playing with the front of the cards I have but also the backs of the cards of the other player. It uses memory in ways I haven’t seen before.*
 
-### Session 3 — [Cooperative Play](http://meaningfulplay.msu.edu/program.php?session=101)
+### Session 3 — [Cooperative Play](https://meaningfulplay.msu.edu/program.php?session=101)
 
 The last session was my own. At the last minute, I decided to throw something together about the sociality of MMORPGs. I absolutely adore the work of Nikki Crenshaw and so should you:
 
-* [“ Something We Loved That Was Taken Away”: Community and Neoliberalism in World of Warcraft](/citations?view_op=view_citation&hl=en&user=zmRH6E0AAAAJ&sortby=pubdate&citation_for_view=zmRH6E0AAAAJ:eflP2zaiRacC)
+* Something We Loved That Was Taken Away: Community and Neoliberalism in World of Warcraft
 
-* [Social Experience in World of Warcraft: Technological and Ideological Mediations](/citations?view_op=view_citation&hl=en&user=zmRH6E0AAAAJ&sortby=pubdate&citation_for_view=zmRH6E0AAAAJ:D_sINldO8mEC)
+* Social Experience in World of Warcraft: Technological and Ideological Mediations
 
-* [“ It Was More Than Just the Game, It Was the Community”: Social Affordances in Online Games](/citations?view_op=view_citation&hl=en&user=zmRH6E0AAAAJ&sortby=pubdate&citation_for_view=zmRH6E0AAAAJ:UeHWp8X0CEIC)
+* It Was More Than Just the Game, It Was the Community: Social Affordances in Online Games
 
 Each of these papers get at a very specific idea — World of Warcraft doesn’t afford for sociality much these days.
 

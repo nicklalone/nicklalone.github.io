@@ -34,7 +34,7 @@ In fact, I think Bruno Latour said it best when he said: “Modernization never 
 
 And through all of this, we see a relatively frustrating amount of resistance to the very idea of historical methods in computing, in human-computer interaction, or anything related to it because to look backward is to notice just how many giant gaping, seething, awful wounds have yet to heal. We will see the steps we purposefully took that have led us to the current moment in time very few of us actually want to be in. And yet, we still do not have an ability to understand it. We cannot understand how we got here because doing so would result in understanding the culpability every generation has in manifesting it.
 
-So we see a potential project begin to form through Latour's method that he outlines in [*An Inquiry into Modes of Existence*](http://modesofexistence.org/inquiry/). But to see the project form, we must define our object of inquiry rather than calling it a singularity that not even Matty Mac can save us from.
+So we see a potential project begin to form through Latour's method that he outlines in [*An Inquiry into Modes of Existence*](https://modesofexistence.org/inquiry/). But to see the project form, we must define our object of inquiry rather than calling it a singularity that not even Matty Mac can save us from.
 
 ---
 

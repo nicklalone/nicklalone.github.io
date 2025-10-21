@@ -143,7 +143,7 @@ This limit seems limitless for new users but as they learn more about the ways t
 
 ### On being reactive with immediate feedback
 
-Finally, reactive with immediate feedback is an essential component. For folks who are learning interpreted languages, this is something that occurs quite a bit but typically this is reserved for text-based concepts. I can do something like visualize a for-loop in python with the [Python Tutor](http://www.pythontutor.com/visualize.html#mode=edit) but this does not really provide me with neat looking examples.
+Finally, reactive with immediate feedback is an essential component. For folks who are learning interpreted languages, this is something that occurs quite a bit but typically this is reserved for text-based concepts. I can do something like visualize a for-loop in python with the [Python Tutor](https://www.pythontutor.com/visualize.html#mode=edit) but this does not really provide me with neat looking examples.
 
 With PICO-8, I can draw squares and rectangles and watch as they move around the screen with variables in much the same way as processing. Additionally, I can also quickly upload my carts as they stand to the PICO-8 community so that they can be shared far and wide. Each cart exists in its own self-contained webpage. For example, the popular Celeste is available at:
 [**Celeste**

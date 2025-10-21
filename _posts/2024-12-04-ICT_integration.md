@@ -113,7 +113,7 @@ The central problem isn’t the lack of an agency or the lack of regulation, it�
 
 In the end, I suppose this entire article is a way of saying, “Let’s actually build what EM wants versus trying to take existing, subpar products and force it on EM.” In addition, we suggest that EM should become a home for labeling the risk inherent in all technologies whether it be focused on a calorie-like label on products that describe how it increases risks under certain conditions.
 
-Is any of this possible? Sure. As we [learned from COVID](http://www.bruno-latour.fr/sites/default/files/downloads/P-202-AOC-ENGLISH_1.pdf):
+Is any of this possible? Sure. As we [learned from COVID](https://www.bruno-latour.fr/sites/default/files/downloads/P-202-AOC-ENGLISH_1.pdf):
 
 > The first lesson the coronavirus has taught us is also the most astounding: we have actually proven that it is possible, in a few weeks, to put an economic system on hold everywhere in the world and at the same time, a system that we were told it was impossible to slow down or redirect. To every ecologist’s argument about changing our ways of life, there was always the opposing argument about the irreversible force of the ‘train of progress’ that nothing could derail ‘because of globalisation’, they would say. And yet it is precisely its globalised character that makes this infamous development so fragile, so likely to do the opposite and come to a screeching halt.
 
