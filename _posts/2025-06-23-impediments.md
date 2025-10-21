@@ -1,7 +1,10 @@
 ---
-layout: post
+author: Nick LaLone
+date: 2025-06-23 12:00:00 +0800
 title: Modes of Existence - Chapter 5 - Impediments
+categories: [Games, Actor-Network-Theory, Sociology]
 tags: [Latour, Modes, Dungeons and Dragons, Charisma]
+render_with_liquid: false
 ---
 
 In the previous posts, I have talked about [defining our object of inquiry](https://nicklalone.com/2025/04/14/modes-defining-1) as well as a little on [what documents matter](https://nicklalone.com/2025/04/20/modes-docs-2). I also [wrote about how defining is actually a bit more tricky but easier within this method because it allows researchers to learn](https://nicklalone.com/2025/05/05/modes-learning). More recently, I wrote a bit about [how definitions of charisma exist in tandem and sometimes overlap](https://nicklalone.com/2025/05/30/modes-correspondence). This was then followed up by the [concept of space in method.](https://nicklalone.com/2025/06/21/making-room)
