@@ -111,6 +111,8 @@ comments:
   # The provider options are as follows:
   disqus:
     shortname: nicklalone-com.disqus.com # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  layout: default
+  comments: true
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
