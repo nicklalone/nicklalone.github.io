@@ -36,7 +36,7 @@ In essence, I wanted to blend the medium of videogame and boardgame because our 
 The assignment is meant to confine the learner by asking them to expand a game that is a pen and paper translation of a popular video game genre. In getting them to think about an FPS in pen and paper form, the hope is that they understand the relationship between medium and can create more interesting, well-scoped games in the future.
 
 ### Well, so what?
-Teaching game design is a delicate process. You have students who often are attracted to the idea of game design because they identify as gamers. As a result, they have a strong attachment to consumptive behaviors. Your job as an instructor is to augment that identity by shifting it from consuming to creating. The act of creating something based on what we love is constant disappointment until we fully understand what drove us to 
+Teaching game design is a delicate process. You have students who often are attracted to the idea of game design because they identify as gamers. As a result, they have a strong attachment to consumptive behaviors. Your job as an instructor is to augment that identity by shifting it from consuming to creating. The act of creating something based on what we love is constant disappointment until we fully understand what drove us to want to make those things. Not respecting the difficulty of that process will drive students away from designing games.
 
 That new identity is curious, looks at games with an eye on design, and understands the relationship between the world they live in and how it becomes what they see on screen from concept to execution. This is their first course that discusses design and so we try and do a lot within it. 
 
