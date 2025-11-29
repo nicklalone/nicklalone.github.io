@@ -140,10 +140,12 @@ require many more casualties.
 > Brand new song cards give you a new way to win: outperform your opponents and become the most popular vocaloid of all time. After all, it doesn’t matter if you get fragged if your memory lives on forever.
 
 ### Conclusion
-And so, the students will be provided the [Steve Jackson games Online Policy Covering Fan Pages, Fan Fiction, and Free Game Aids](https://www.sjgames.com/general/online_policy.html). As a result, the students will be able to (with the help of this policy) create Print and Play PDFs of their expansions and publish these games to their portfolio for download, upload them to the [BoardGameGeek page for FRAG](https://boardgamegeek.com/boardgame/2025/frag) (as long as it follows the policy), and develop them further than they could in class. 
+This has been a busy semester of design in GDD1! For the assignment outlined in this post, the students will be provided the [Steve Jackson games Online Policy Covering Fan Pages, Fan Fiction, and Free Game Aids](https://www.sjgames.com/general/online_policy.html) which outlines how to organize their materials, canned text to be added, and what graphics are allowed according to their license. 
 
-Or in other words, making an expansion from the game will give them an opportunity to polish it and engage with trademark and copyright language that is simple and easy to understand. The exposure to this language will be stupendously useful as these students continue to develop their design portfolios and elevates them by demonstrating a careful attention and care to details around intellectual property.
+As a result, the students will be able to (with the help of this policy) create Print and Play PDFs of their expansions with the ability to post them on their portfolios and elsewhere like upload them to the [BoardGameGeek page for FRAG](https://boardgamegeek.com/boardgame/2025/frag) (as long as it follows the policy). This also gives them a reason to develop the expansions further than they could in class. 
 
-The best part is that Steve Jackson Games has asked to send more copies of the game as we run this assignment in the future, and we will be. 
+Or in other words, making an expansion from an existing game will give the students an opportunity to polish it and engage with trademark and copyright language that is simple and easy to understand. The exposure to this language will be extremely useful as they continue to develop their design portfolios and get ready to find permanent jobs or open studios of their own. This assignment elevates their work and their portfolio by demonstrating careful attention and care to details around intellectual property.
+
+The best part is that Steve Jackson Games has asked to send us some copies of the game so we can run this assignment in the future, and we will be. 
 
 Fnord!
