@@ -47,9 +47,9 @@ So what did they make?
 ### What they made
 The expansions are a fascinating mishmash of different kinds of approaches to design. They all have their strengths and weaknesses (like any game) but they all also do something that is extra neat: [Steve Jackson Games' FRAG](https://www.sjgames.com/frag/) is a game that attempted to replicate Unreal Tournament back in 2000 or so. I got to go to Steve Jackson Game's home in Austin to playtest it while it was under development. 
 
-FPS, shooters in general, have changed a lot since then and have even begun to see professional play. As a result, this group of students (born roughly around 2004 or later), are looking at a game from the past and being asked to make an expansion that doesn't know the context it was created in. 
+FPS, shooters in general, have changed a lot since then and have even begun to see professional play. As a result, this group of students (born roughly around 2004 or later), are looking at a game from the past and being asked to make an expansion that they don't fully know or understand the context it was created in. Initial play sessions were extremely interesting because of this! 
 
-As a result, we see things like "Balancing" updates which re-imagine the game from the present. We see MOBA-style hordes descending on the players. We see turrets, king of the hill, and even Hatsune Miku-inspired expansions. 
+As a result, we see expansions like "Balancing" updates which re-imagine the game from the present. We see MOBA-style hordes descending on the players. We see turrets, king of the hill, and even Hatsune Miku-inspired expansions. 
 
 And they're all extra fascinating, take a look!
 
