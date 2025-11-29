@@ -16,6 +16,8 @@ The basis of the assignment was simple: I need to show them how a paper prototyp
 
 To do this, I took one of my favorite crossovers of gaming in history: [Steve Jackson Games' FRAG](https://www.sjgames.com/frag/). I asked my students to design an expansion for it while providing some thoughts on how it could be incorporated in a digital game. 
 
+<img src="https://nicklalone.com/img/sjfrag.jpg" alt="picture of Steve Jackson Games' game FRAG" width=300>
+
 This is the prompt: 
 
 > In this assignment, you will BE ASSEMBLING IN GROUPS OF 2 and making an expansion pack for [Steve Jackson Games' FRAG](https://www.sjgames.com/frag/). This is an FPS made into a boardgame and it gets into a specific problem we tend to see in IGM, "why am I designing video games with paper?!!?!?"
