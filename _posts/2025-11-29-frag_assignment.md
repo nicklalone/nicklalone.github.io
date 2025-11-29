@@ -2,7 +2,7 @@
 author: Nick LaLone
 date: 2025-11-29 12:00:00 +0800
 categories: [Games, Teaching, Game Design, Intro Design]
-title: Blending Medium in Introductory Game Design Courses with a First-Person Board Game
+title: Blending Medium in Introductory Game Design Courses with Steve Jackson Games' FRAG
 tags: [Frag, Steve Jackson Games, Game Design, Teaching]
 render_with_liquid: false
 ---
