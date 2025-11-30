@@ -5,6 +5,7 @@ categories: [Games, Teaching, Game Design, Intro Design]
 title: Blending Medium in Introductory Game Design Courses with Steve Jackson Games' FRAG
 tags: [Frag, Steve Jackson Games, Game Design, Teaching]
 render_with_liquid: false
+comments: true
 ---
 
 ### Introduction
