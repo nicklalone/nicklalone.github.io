@@ -1,5 +1,5 @@
 ---
-author: Nick LaLone
+author: nicklalone
 date: 2024-12-02 12:00:00 +0800
 title: Tech in Emergency Management Cannot Follow the Standard Cycle
 categories: [Emergency Management]
