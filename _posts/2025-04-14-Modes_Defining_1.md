@@ -1,5 +1,5 @@
 ---
-author: Nick LaLone
+author: nicklalone
 date: 2025-04-14 12:00:00 +0800
 title: Modes of Existence Chapter 1 - Defining Charisma as an Object of Inquiry
 categories: [Games, Actor-Network-Theory, Sociology]
