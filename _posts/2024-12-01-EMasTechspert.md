@@ -1,5 +1,5 @@
 ---
-author: Nick LaLone
+author: nicklalone
 date: 2024-12-01 12:00:00 +0800
 title: Vulnerability, Resilience, and Technology
 subtitle: Why Emergency Management Should Be a Leader in Technology
