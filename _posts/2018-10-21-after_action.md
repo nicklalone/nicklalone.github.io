@@ -1,5 +1,5 @@
 ---
-author: Nick LaLone
+author: nicklalone
 date: 2018-10-21 12:00:00 +0800
 title: A Meaningful Play After Action Report
 categories: [Post-Conference AAR]
