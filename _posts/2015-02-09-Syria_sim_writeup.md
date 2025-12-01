@@ -1,6 +1,6 @@
 ---
 title: Ludic Gatekeepers and the Unclear Simulatio
-author: Nick LaLone
+author: nicklalone
 date: 2015-02-09 12:00:00 +0800
 categories: [Simulation Observation]
 render_with_liquid: false
