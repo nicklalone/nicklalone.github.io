@@ -1,5 +1,5 @@
 ---
-author: Nick LaLone
+author: nicklalone
 date: 2025-05-05 12:00:00 +0800
 title: Modes of Existence - How Methods Afford for Learning
 categories: [Games, Actor-Network-Theory, Sociology]
