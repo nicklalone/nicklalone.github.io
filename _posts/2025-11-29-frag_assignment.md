@@ -2,9 +2,8 @@
 author: nicklalone
 date: 2025-11-29 12:00:00 +0800
 categories: [Games, Teaching, Game Design, Intro Design]
-title: Blending Medium in Introductory Game Design Courses with Steve Jackson Games' FRAG
+title: Blending Medium in Introductory Game Design Courses with Steve Jackson Games FRAG
 tags: [Frag, Steve Jackson Games, Game Design, Teaching]
-comments: true
 ---
 
 ### Introduction
