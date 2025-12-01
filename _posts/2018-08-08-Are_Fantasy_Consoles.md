@@ -1,5 +1,5 @@
 ---
-author: Nick LaLone
+author: nicklalone
 date: 2018-08-08 12:00:00 +0800
 title: 'Are Fantasy Consoles a Better Gateway to Learning How to Program? Learning Programming with PICO-8'
 categories: [Computer Science Education, PICO-8]
