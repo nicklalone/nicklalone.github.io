@@ -1,6 +1,6 @@
 ---
 title: One-Shot Review - A Slow Year
-author: Nick LaLone
+author: nicklalone
 date: 2012-03-28 12:00:00 +0800
 categories: [Game Reviews]
 tags: [Review, History, Videogames]
