@@ -1,5 +1,5 @@
 ---
-author: Nick LaLone
+author: nicklalone
 date: 2018-11-21 12:00:00 +0800
 title: Fantasy Console Class Semester Wrap-up
 categories: [Computer Science Education, PICO-8]
