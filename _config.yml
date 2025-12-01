@@ -16,7 +16,7 @@ timezone: "America/New_York"
 
 title: The Spaces Between # the main title
 
-tagline:  Discussions and Posts about UI/UX, HCI, Design, and Workforce Development # it will display as the subtitle
+tagline: Discussions and Posts about UI/UX, HCI, Design, and Workforce Development # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Discussions and Posts about UI/UX, HCI, Design, and Workforce Development # it will display as the subtitle
