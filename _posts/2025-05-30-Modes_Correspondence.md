@@ -1,5 +1,5 @@
 ---
-author: Nick LaLone
+author: nicklalone
 date: 2025-05-30 12:00:00 +0800
 title: Modes of Existence - Chapter 3
 categories: [Games, Actor-Network-Theory, Sociology]
