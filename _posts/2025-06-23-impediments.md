@@ -1,5 +1,5 @@
 ---
-author: Nick LaLone
+author: nicklalone
 date: 2025-06-23 12:00:00 +0800
 title: Modes of Existence - Chapter 5 - Impediments
 categories: [Games, Actor-Network-Theory, Sociology]
