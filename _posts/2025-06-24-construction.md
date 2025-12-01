@@ -1,5 +1,5 @@
 ---
-author: Nick LaLone
+author: nicklalone
 date: 2025-06-24 12:00:00 +0800
 categories: [Games, Actor-Network-Theory, Sociology]
 title: Modes of Existence - Chapter 6 - Defects
