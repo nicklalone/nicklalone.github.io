@@ -1,5 +1,5 @@
 ---
-author: Nick LaLone
+author: nicklalone
 date: 2025-06-21
 title: Modes of Existence - Chapter 4
 categories: [Games, Actor-Network-Theory, Sociology]
