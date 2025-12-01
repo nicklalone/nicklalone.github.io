@@ -1,5 +1,5 @@
 ---
-author: Nick LaLone
+author: nicklalone
 date: 2024-12-04 12:00:00 +0800
 title: 3 Tenets on the Integration of Information Technology with Emergency Management
 categories: [Emergency Management]
