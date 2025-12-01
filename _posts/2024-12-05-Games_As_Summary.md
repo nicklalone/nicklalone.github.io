@@ -1,5 +1,5 @@
 ---
-author: Nick LaLone
+author: nicklalone
 date: 2018-03-13 12:00:00 +0800
 title: Games as Summary or The Missing Mass of Games Doesn’t Have to Be Impermeable
 categories: [Games, Actor-Network-Theory, Sociology]
