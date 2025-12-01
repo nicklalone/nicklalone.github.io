@@ -120,7 +120,7 @@ comments:
     repo: nicklalone/nicklalone.github.io # <gh-username>/<repo>
     repo_id: R_kgDOQGezrA
     category: General
-    category_id: DIC_kwDOOxyq-84CqskJ
+    category_id: DIC_kwDOQGezrM4CzONe
     mapping: pathname # optional, default to 'pathname'
     strict: 0 # optional, default to '0'
     input_position: bottom # optional, default to 'bottom'
