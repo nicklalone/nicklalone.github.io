@@ -1,5 +1,5 @@
 ---
-author: Nick LaLone
+author: nicklalone
 date: 2020-03-21 12:00:00 +0800
 title: 'Consequences of a mobile fetish: logging back in to the virtual world after 10 years afk.'
 tags: [Virtual Worlds]
