@@ -40,7 +40,7 @@ Teaching game design is a delicate process. You have students who often are attr
 
 That new identity is curious, looks at games with an eye on design, and understands the relationship between the world they live in and how it becomes what they see on screen from concept to execution. This is their first course that discusses design and so we try and do a lot within it. 
 
-After a post on Blue Sky, SJGames asked me for a bit more information about the assignment and so this post is meant to provide context about the assignment and then highlight what the students made. 
+After a post on [Blue Sky](https://bsky.app/profile/did:plc:ycvqynqfrodsn23xdec4y6w5/post/3m3kutc6jis2b), [Darryll Silva](https://www.sjgames.com/general/staff.html) over at SJGames asked me for a bit more information about the assignment and so this post is meant to provide context about the assignment and then highlight what the students made. 
 
 So what did they make?
 
