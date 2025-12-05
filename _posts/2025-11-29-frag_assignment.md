@@ -60,11 +60,14 @@ Not with this expansion pack. Place turrets that have a radius that will immedia
 >Set up traps that will debilitate or even frag an opponent. Feel like you can’t carry enough equipment? If you pull the right cards, you can carry so much more… Use this extra equipment to DESTROY YOUR ENEMIES!!! Given luck is on your side ;)
 
 #### **Frag: Balancing Expansion**
+[Jinna Smail](https://snailjxs.wixsite.com/jinna-portfolio) & Cameron Wilson
 > Have you ever played a game with someone who absolutely demolishes all the other players? 
 > 
 > Has a game ever seemed ludicrously broken at some parts? Frag is back and better than ever! This expansion pack aims to fix some of the balancing issues that were present in the first edition. 
 > 
-> Now, you and your friends can all shoot each other fairly! Frag is even faster and more violent than it once was. All’s fair in love and war.
+> Now, you and your friends can all shoot each other fairly! 
+> 
+> Frag is even faster and more violent than it once was. All’s fair in love and war.
 
 #### **Frag: Boss Expansion** 
 > Bored of only having your friends to frag? The Frag Boss Expansion adds a new deadly hazard to Frag. One of six unique bosses will hunt you each game. 
@@ -107,23 +110,30 @@ several new weapons, items, and specials, the game has just stepped up to a new 
 > 
 > Face off against The Horde! The Horde player commands the persistent ferocious Hordlings who fight against a band of Champions (2-5 players)! 
 > 
-> Champions select a unique starter gadget and are equipped with shared weapons and other gadgets as well. Champion respawns are scarce with the immense pressure of The Horde. As a Champion will you stand united to take down the swarm or will you become The Horde?
+> Champions select a unique starter gadget and are equipped with shared weapons and other gadgets as well. Champion respawns are scarce with the immense pressure of The Horde. 
+> 
+> As a Champion will you stand united to take down the swarm or will you become The Horde?
 
 #### **Frag: Juggernaut**
 > Fight alongside your fellow players as you seek to take a new, mutual threat, The Juggernaut. 
 > 
-> They say that Juggernaut can take on entire fire teams by themselves, but you’re out to prove them wrong! Team up, coordinate, and hopefully get lucky to take out this powerful new threat before they become too strong to overcome…
+> They say that Juggernaut can take on entire fire teams by themselves, but you’re out to prove them wrong! 
+> 
+> Team up, coordinate, and hopefully get lucky to take out this powerful new threat before they become too strong to overcome…
 
 #### **Frag: Mutually Assured Destruction**
 > Tensions are running high and the chaos may be reaching apocalyptic levels. In this explosive add-on, players gain access to an arsenal of devastating nuclear weaponry capable of wiping out entire sectors of the map, along with anyone unlucky enough to be standing in range. 
 > 
-> But be warned: launching a nuke comes at a cost. Every detonation escalates the MAD meter, pushing the game closer to total destruction. In the world of Mutually Assured Destruction, winning will
-require many more casualties.
+> But be warned: launching a nuke comes at a cost. Every detonation escalates the MAD meter, pushing the game closer to total destruction. 
+> 
+> In the world of Mutually Assured Destruction, winning will require many more casualties.
 
 #### **Frag: New Heights**
 > Claim the high ground and snipe your enemies from above. In this Frag expansion, move across the new three dimensional map in order to take out your opponents. 
 > 
-> Or even better, change the map itself! With new gadget cards, you can add new obstacles like extra walls, acid, teleporter spots, and even bombs. Embrace the chaos of change and use it to your advantage!
+> Or even better, change the map itself! With new gadget cards, you can add new obstacles like extra walls, acid, teleporter spots, and even bombs. 
+> 
+> Embrace the chaos of change and use it to your advantage!
 
 #### **Frag: Revenge pack**
 > Ever been the victim of a drive by? 
@@ -140,7 +150,9 @@ require many more casualties.
 > 
 > In this new edition of Frag, team up with friends to spread the carnage across the board. With the invention of swapper technology, not even the laws of physics can hold you back. 
 > 
-> Discover new weapons and gadgets that’ll make Einstein weep, teleporting items across the map or remotely blowing up your enemies. Take that, relativity. Experience the mind bending power of the swappers, bringing more chaos, more blood, and more FRAG. You’ve entered… the SWAP ZONE.
+> Discover new weapons and gadgets that’ll make Einstein weep, teleporting items across the map or remotely blowing up your enemies. Take that, relativity. Experience the mind bending power of the swappers, bringing more chaos, more blood, and more FRAG. 
+> 
+> You’ve entered… the SWAP ZONE.
 
 #### **VocaFrag - A Vocaloid Expansion Pack**
 Josie Verive-Cain and Sienna Sloe
