@@ -93,7 +93,7 @@ Samantha Osborne and Silas Howard
 > Can you avoid a golem chasing you down during a pixie raid while your friend has you in their scopes? Find out today!
 
 #### **Frag: Fatal Error Update**
-Zach Ayers and Davey Walls
+[Zach Ayers](https://binarie.dev/) and Davey Walls
 > In this expansion, dive into the coded void of cyberspace and take control of the battlefield. With
 several new weapons, items, and specials, the game has just stepped up to a new level. With new ways to combat your enemies, the frags can’t...and won’t stop coming.
 >
