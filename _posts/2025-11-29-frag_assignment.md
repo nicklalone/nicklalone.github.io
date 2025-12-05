@@ -81,7 +81,7 @@ Julian Vagg and [Conor Gutierrez](https://people.rit.edu/clg1807/235)
 > By using the new Weapon Mod card sub-type, or calling in a carpet bomb, there are so many new ways to frag your enemies and rise to victory.
 
 #### **Frag: Enemy on the Other Side**
-[Giovanna Nelson](https://giosnel6.wixsite.com/giovanna-saywon-nels) & [Milo Qureshi](https://people.rit.edu/hhq8650/portfolio/)
+[Giovanna Nelson](https://giosnel6.wixsite.com/giovanna-saywon-nels) & [Milo Qureshi](https://milosneptune.github.io/portfolio/)
 > This brilliant expansion introduces cooperative gameplay in the form of Capture the Flag. Two teams. One flag. A struggle in the midst of the warzone. Who will seize the flag and reign victorious?
 
 #### **Frag: Fantastical Frag**
