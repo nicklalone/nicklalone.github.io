@@ -1,10 +1,10 @@
 ---
-author: nicklalone
+author: Nick LaLone
 date: 2025-11-29 12:00:00 +0800
 categories: [Games, Teaching, Game Design, Intro Design]
-title: Blending Medium in Introductory Game Design Courses with Steve Jackson Games FRAG
+title: Blending Medium in Introductory Game Design Courses with Steve Jackson Games' FRAG
 tags: [Frag, Steve Jackson Games, Game Design, Teaching]
-comments: true
+render_with_liquid: false
 ---
 
 ### Introduction
@@ -72,14 +72,17 @@ Not with this expansion pack. Place turrets that have a radius that will immedia
 > Kill it to score a frag and take their loot, including a unique boss weapon. You’re not just hunting each other anymore…
 
 #### **Frag: The Chaos Expansion**
+Julian Vagg and [Conor Gutierrez](https://people.rit.edu/clg1807/235)
 > Frag: The Chaos Expansion is an expansion to the existing Steve Jackson game, FRAG. This expansion aims to bring more varied gameplay, and experimental mechanics that are vastly different from the base game of FRAG. 
 > 
 > By using the new Weapon Mod card sub-type, or calling in a carpet bomb, there are so many new ways to frag your enemies and rise to victory.
 
 #### **Frag: Enemy on the Other Side**
+[Giovanna Nelson](https://giosnel6.wixsite.com/giovanna-saywon-nels) & [Milo Qureshi](https://people.rit.edu/hhq8650/portfolio/)
 > This brilliant expansion introduces cooperative gameplay in the form of Capture the Flag. Two teams. One flag. A struggle in the midst of the warzone. Who will seize the flag and reign victorious?
 
 #### **Frag: Fantastical Frag**
+Samantha Osborne and Silas Howard
 > You know what's better than just shooting guns? Shooting guns with a DRAGON flying overhead! Turn this board into a fantasy world. 
 > 
 > Where around any wall could land you in the sites of a wild beast ready to pounce! 
@@ -87,6 +90,7 @@ Not with this expansion pack. Place turrets that have a radius that will immedia
 > Can you avoid a golem chasing you down during a pixie raid while your friend has you in their scopes? Find out today!
 
 #### **Frag: Fatal Error Update**
+Zach Ayers and Davey Walls
 > In this expansion, dive into the coded void of cyberspace and take control of the battlefield. With
 several new weapons, items, and specials, the game has just stepped up to a new level. With new ways to combat your enemies, the frags can’t...and won’t stop coming.
 >
@@ -98,6 +102,7 @@ several new weapons, items, and specials, the game has just stepped up to a new 
 > While occupying the space, players will gain points, if they meet a certain threshold of points, they win. If this threshold is not reached, then the player with the highest amount of points after three hardpoint movements wins.
 
 #### **Frag - The Horde Expansion Pack** 
+[Austin Bonbrake](https://sites.google.com/view/mintquest/home) and Eoin Stansfield
 > You're gonna need a bigger gun!
 > 
 > Face off against The Horde! The Horde player commands the persistent ferocious Hordlings who fight against a band of Champions (2-5 players)! 
@@ -125,9 +130,12 @@ require many more casualties.
 > 
 > Ever been attacked and not been able to fight back? 
 > 
-> No longer! In this expansion pack, get your revenge instantly. 
+> No longer! 
+> 
+> In this expansion pack, get your revenge instantly. 
 
 #### **Frag: SwapZone**
+[Ziad Jafar](https://ziad-jaafar.vercel.app/) and [Avigail Daniel](https://gulidee.com/)
 > The Frag you once knew is dead. It’s been replaced by its cooler, faster, hotter cousin. Gone are the days of walking, running, and tracking your movement. 
 > 
 > In this new edition of Frag, team up with friends to spread the carnage across the board. With the invention of swapper technology, not even the laws of physics can hold you back. 
@@ -135,6 +143,7 @@ require many more casualties.
 > Discover new weapons and gadgets that’ll make Einstein weep, teleporting items across the map or remotely blowing up your enemies. Take that, relativity. Experience the mind bending power of the swappers, bringing more chaos, more blood, and more FRAG. You’ve entered… the SWAP ZONE.
 
 #### **VocaFrag - A Vocaloid Expansion Pack**
+Josie Verive-Cain and Sienna Sloe
 > Taking to the arena are a new set of contenders - the Crypton Vocaloids! Play as Miku, Len, Rin, Luka, Meiko, and Kaito and take down your competition with guns and violence - or with the power of song. 
 > 
 > Brand new song cards give you a new way to win: outperform your opponents and become the most popular vocaloid of all time. After all, it doesn’t matter if you get fragged if your memory lives on forever.
