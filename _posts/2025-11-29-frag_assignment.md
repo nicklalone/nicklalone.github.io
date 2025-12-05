@@ -100,7 +100,7 @@ several new weapons, items, and specials, the game has just stepped up to a new 
 > Find a way to adapt to the environment and take home glory and fame! With a new expanded board, there is a big focus on longer range combat, and movement abilities that will help you to close the distance. With all the chaos of the battlefield raging at once, it may be uncertain if the world you fight in will be left standing by the conflict's end. Will you emerge triumphant and commit to achieving your victory, or will you crash and have a fatal error? That is up to you.
 
 #### **Frag: Gamemode - Hardpoint**
-Gabriel Roddy and [Naomi Belgrave](https://sacanthias.github.io/)
+[Gabriel Roddy](https://roddygabriel64.wixsite.com/gabe) and [Naomi Belgrave](https://sacanthias.github.io/)
 > Hardpoint is a gamemode similar to King of The Hill where players need to move to and control specific locations on a map. There is only one hard point on the map at a time, but the hardpoint can move. 
 >
 > While occupying the space, players will gain points, if they meet a certain threshold of points, they win. If this threshold is not reached, then the player with the highest amount of points after three hardpoint movements wins.
