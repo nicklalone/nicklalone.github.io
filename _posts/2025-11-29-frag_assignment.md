@@ -116,6 +116,7 @@ several new weapons, items, and specials, the game has just stepped up to a new 
 > As a Champion will you stand united to take down the swarm or will you become The Horde?
 
 #### **Frag: Juggernaut**
+Kiera Szuba and [Ben Haines](https://people.rit.edu/bwh8037/235)
 > Fight alongside your fellow players as you seek to take a new, mutual threat, The Juggernaut. 
 > 
 > They say that Juggernaut can take on entire fire teams by themselves, but you’re out to prove them wrong! 
