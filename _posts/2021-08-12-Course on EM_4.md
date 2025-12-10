@@ -14,7 +14,7 @@ This article outlines readings, multimedia content, and resources of interest fo
 In the previous articles attached to this project, I explore the philosophical underpinnings of why this course is necessary. Those articles can be found here:
 
 1.  [A Course on Emergency Management and Technology: Getting Started.](https://nicklalone.com/posts/Course_on_EM/)
-2.  [A Course on Emergency Management and Technology: Foundations to Consider.](https://nicklalone.com/posts/Course_on_EM_2/
+2.  [A Course on Emergency Management and Technology: Foundations to Consider.](https://nicklalone.com/posts/Course_on_EM_2/)
 3.  [A Course on Emergency Management and Technology: Goals and a Starting on Structure.](https://nicklalone.com/posts/Course_on_EM_3/)
 
 Much of the background for this course is related to providing some exposure for EM students to technology and technology students to where and how EM operates.
