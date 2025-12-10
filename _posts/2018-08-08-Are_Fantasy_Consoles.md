@@ -145,19 +145,17 @@ This limit seems limitless for new users but as they learn more about the ways t
 
 Finally, reactive with immediate feedback is an essential component. For folks who are learning interpreted languages, this is something that occurs quite a bit but typically this is reserved for text-based concepts. I can do something like visualize a for-loop in python with the [Python Tutor](https://www.pythontutor.com/visualize.html#mode=edit) but this does not really provide me with neat looking examples.
 
-With PICO-8, I can draw squares and rectangles and watch as they move around the screen with variables in much the same way as processing. Additionally, I can also quickly upload my carts as they stand to the PICO-8 community so that they can be shared far and wide. Each cart exists in its own self-contained webpage. For example, the popular Celeste is available at:
-[**Celeste**
-*Good level design. Some of these strawberries are really interesting. I also liked how you teach which buttons are…*www.lexaloffle.com](https://www.lexaloffle.com/bbs/?tid=2145)
+With PICO-8, I can draw squares and rectangles and watch as they move around the screen with variables in much the same way as processing. Additionally, I can also quickly upload my carts as they stand to the PICO-8 community so that they can be shared far and wide. Each cart exists in its own self-contained webpage. For example, the popular Celeste is available at: [it's main page](https://www.lexaloffle.com/bbs/?tid=2145&)source=post_page)
 
-and each aspect of the game can be found within the interface there. Additional features for comments, allow users to share their carts with friends and co-designers to examine the game within a browser that allows for others to share, examine the code, and actually play.
+There are additional features that allow users to share their carts with friends and co-designers to examine the game within a browser that allows for others to share, examine the code, and actually play.
 
 I am excited about the world of the fantasy console and I am super anxious to start to try and use it to teach the basics of programming and how that programming relates to objects within a design. While on first blush it seems to be a piece of software that lends itself to teaching programming,
 
 1. the culture surrounding programming,
 
-1. the expectations of users creating games,
+2. the expectations of users creating games,
 
-1. and the “trendiness” of a retro-oriented re-interpretation of the hardware limitations that fostered truly unique and memorable video games
+3. and the “trendiness” of a retro-oriented re-interpretation of the hardware limitations that fostered truly unique and memorable video games
 
 all might lend themselves to truncating much of the possibility of fantasy consoles. Not being able to immediately make the games that “new designers” play every day can be disheartening. To them, I often point to this great bit from Ira Glass but often to little effect.
 
