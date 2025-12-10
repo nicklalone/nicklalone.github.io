@@ -2,7 +2,7 @@
 author: nicklalone
 date: 2017-07-28 12:00:00 +0800
 title: On the Impact of Nonhumans in Social Network Analysis
-categories: [Simulation Observation]
+categories: [Dissertation]
 tags: [SNA, Dissertation, ANT, HCI, boardgames]
 render_with_liquid: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: Ludic Gatekeepers and the Unclear Simulatio
+title: Ludic Gatekeepers and the Unclear Simulation
 author: nicklalone
 date: 2015-02-09 12:00:00 +0800
 categories: [Simulation Observation]

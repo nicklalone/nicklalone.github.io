@@ -2,7 +2,7 @@
 author: nicklalone
 date: 2018-01-14 12:00:00 +0800
 title: The Centrality of Objects
-categories: [Simulation Observation]
+categories: [Dissertation]
 tags: [ANT, Academia, Dissertation, HCI]
 ---
 

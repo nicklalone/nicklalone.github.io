@@ -3,7 +3,7 @@ author: nicklalone
 date: 2018-08-08 12:00:00 +0800
 title: Are Fantasy Consoles a Better Gateway to Learning How to Program?
 categories: [Computer Science Education, PICO-8]
-tags: [PICO-8]
+tags: [Computer Science Education, PICO-8]
 render_with_liquid: false
 ---
 
@@ -136,7 +136,7 @@ This limit seems limitless for new users but as they learn more about the ways t
 
 Finally, reactive with immediate feedback is an essential component. For folks who are learning interpreted languages, this is something that occurs quite a bit but typically this is reserved for text-based concepts. I can do something like visualize a for-loop in python with the [Python Tutor](https://www.pythontutor.com/visualize.html#mode=edit) but this does not really provide me with neat looking examples.
 
-With PICO-8, I can draw squares and rectangles and watch as they move around the screen with variables in much the same way as processing. Additionally, I can also quickly upload my carts as they stand to the PICO-8 community so that they can be shared far and wide. Each cart exists in its own self-contained webpage. For example, the popular Celeste is available at: [this page](https://www.lexaloffle.com/bbs/?tid=2145&source=post_page)
+With PICO-8, I can draw squares and rectangles and watch as they move around the screen with variables in much the same way as processing. Additionally, I can also quickly upload my carts as they stand to the PICO-8 community so that they can be shared far and wide. Each cart exists in its own self-contained webpage. For example, the popular Celeste is available at: [this page.](https://www.lexaloffle.com/bbs/?tid=2145&source=post_page)
 
 Additional features for comments, allow users to share their carts with friends and co-designers to examine the game within a browser that allows for others to share, examine the code, and actually play.
 

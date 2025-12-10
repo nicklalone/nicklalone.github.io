@@ -3,7 +3,7 @@ author: nicklalone
 date: 2018-08-20 12:00:00 +0800
 title: First Steps with PICO-8
 categories: [Computer Science Education, PICO-8]
-tags: [PICO-8]
+tags: [Computer Science Education, PICO-8]
 render_with_liquid: false
 ---
 
