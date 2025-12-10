@@ -1,7 +1,7 @@
 ---
 author: nicklalone
 date: 2021-07-14 12:00:00 +0800
-title: A Course on Emergency Management and Technology: Getting Started
+title: A Course on Emergency Management and Technology - Getting Started
 tags: [Emergency Management, Technology, Higher Education]
 render_with_liquid: false
 ---

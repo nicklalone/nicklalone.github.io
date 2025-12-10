@@ -1,7 +1,7 @@
 ---
 author: nicklalone
 date: 2021-07-26 12:00:00 +0800
-title: A Course on Emergency Management and Technology: Foundations to Consider
+title: A Course on Emergency Management and Technology - Foundations to Consider
 tags: [Emergency Management, Technology, Higher Education]
 render_with_liquid: false
 ---

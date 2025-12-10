@@ -1,7 +1,7 @@
 ---
 author: nicklalone
 date: 2021-08-02 12:00:00 +0800
-title: A Course on Emergency Management and Technology: Goals and a Starting on Structure
+title: A Course on Emergency Management and Technology - Goals and a Starting on Structure
 tags: [Emergency Management, Technology, Higher Education]
 render_with_liquid: false
 ---
