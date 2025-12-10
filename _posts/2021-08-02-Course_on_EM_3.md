@@ -10,8 +10,8 @@ How can or maybe how should we differentiate between ICS and Emergency Managemen
 
 In the previous articles:
 
-*   [A Course on Emergency Management and Technology: Getting Started](https://medium.com/a-course-on-emergency-management-and-technology-getting-started-3628a3508e07)
-*   [A Course on Emergency Management and Technology: Foundations to Consider](https://medium.com/a-course-on-emergency-management-and-technology-foundations-to-consider-df148efb528c)
+*   [A Course on Emergency Management and Technology: Getting Started](https://nicklalone.com/posts/Course_on_EM/)
+*   [A Course on Emergency Management and Technology: Foundations to Consider](https://nicklalone.com/posts/Course_on_EM_2/)
 
 I started to consider how to create a course that centers on emergency management (EM). Specifically, I am concerns about creating incompatible students trying to do things in EM that it just does not want. The push to create students who are both conforming and non-conforming is delicate but important [given existing issues in EM](https://www.rand.org/pubs/research_reports/RRA1083-1.html).
 

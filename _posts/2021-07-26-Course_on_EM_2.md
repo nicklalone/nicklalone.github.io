@@ -9,7 +9,7 @@ render_with_liquid: false
 And the Future of Emergency Management
 --------------------------------------
 
-[In the last article, I tried to describe the tension surrounding technology and emergency management](https://medium.com/a-course-on-emergency-management-and-technology-getting-started-3628a3508e07). Generally, this course is meant to try and bring together 2 very different groups of students with 2 very different goals in order to provide some movement on the growing gap between the information communication technologies of the everyday person and that of emergency management.
+[In the last article, I tried to describe the tension surrounding technology and emergency management](https://nicklalone.com/posts/Course_on_EM/). Generally, this course is meant to try and bring together 2 very different groups of students with 2 very different goals in order to provide some movement on the growing gap between the information communication technologies of the everyday person and that of emergency management.
 
 This piece is focusing on where students need to end up so we can then consider how to get them there.
 
