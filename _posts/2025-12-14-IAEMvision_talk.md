@@ -8,24 +8,16 @@ render_with_liquid: false
 
 Back in 2022, I had been deeply involved with IAEM's Emerging Technology Caucus. This work had begun around the start of Covid but it was deeply tied to a radical shift in my relationship to academia. 
 
-When I first got my PhD, I was deeply ivory tower oriented. I wanted to explore theories, philosophies, the humanities, and the place of computing in culture. When COVID began, this shifted toward trying to understand the nature of how we plan for risk and react to it when it is in front of us. 
+When I first got my PhD, I was deeply ivory tower oriented. I wanted to explore theories, philosophies, the humanities, and the place of computing in culture. I was essentially going to be a traditional HCI faculty who focused partially on the same sort of projects we all do. But when COVID began, this shifted toward trying to understand the nature of how we plan for risk and react to it when it is in front of us. 
 
-I had just spent 4 years trying to overcome an extremely personal mental health issue and going to this conference was filled with a lot of talking to my therapist in addition to talking to my wife, every hour of every day I was away. 
+For IAEM's EMVision talk, there was a lot of feelings wrapped up in it. It was important as I had just spent 4 years working on my mental health. As a result, going to this conference was filled with a lot of talking to my therapist in addition to talking to my wife, every hour of every day I was away. I was working with a new set of expectations and was not always great at communicating them. 
 
-So my goal in getting involved with IAEM was mostly to try and understand why this article was written: [Crisis Informatics: New Data for Extraordinary Times](https://www.science.org/doi/10.1126/science.aag2579). In this article, some of my favorite academic heroes outline that they had failed, that there is enormous potential in data for disaster planning and response, and that the fundamental paradox wherein (in their view) data is more useful than television or radio and yet there are no true use cases that are apparent within computing as there is in television and radio. 
+My goal in getting involved with IAEM was mostly to try and understand why this article was written: [Crisis Informatics: New Data for Extraordinary Times](https://www.science.org/doi/10.1126/science.aag2579). In it, some of my academic heroes outline that they had failed. They note that there is enormous potential in data for disaster planning and response and that there is a fundamental paradox wherein (in their view) data is more useful than television or radio. Despite that, there are no true use cases that are apparent within computing as there is in television and radio. 
 
-Now, this is BEFORE AI would come to dominate as a solution without a use case that folks would get excited about; however, that is a different conversation. 
+*Now, this is BEFORE AI would come to dominate as a solution without a use case that folks would get excited about; however, that is a different conversation. *
 
-I thought i'd post this script of the talk that I gave. It was recorded but apparently all recordings were lost. 
-
-An update from this is that I ended up writing a case study of the hack in [Oldsmar (which probably wasn't a hack in the end)](https://www.dropbox.com/scl/fi/6hxr7k4mnpk5xq5s9f4k4/LaLone-Oldsmar.pdf?rlkey=d0gjfq2i3w2120ffb09j7px0g&dl=0) and what's more interesting is the recent discussion of this hack [where a plant employee made an error and blamed it on hackers resulting in a massive technology overhaul not really related to the Industrial Control System](https://industrialcyber.co/utilities-energy-power-water-waste/oldsmar-water-treatment-plant-incident-allegedly-caused-by-human-error-not-remote-access-cybersecurity-breach/).
-
-The most fascinating part of the hack that wasn't a hack is that everything in the case study is true even if the hack isn't real because the vulnerabilities were just sitting there in the clear.
-
-I think a lot about this talk every day as it marks a significant shift from being in academia to wanting to do good action-based work outside of academic spaces.
-
+I thought i'd post the script of the talk that I gave. It was recorded but apparently all recordings were lost. 
 ---
-
 Hi everyone!
 
 In 2021, just before the super bowl, someone illegally accessed an industrial control system near Tampa Bay
@@ -89,3 +81,9 @@ I will finish with this note:
 In the next 7 minutes, there will be thousands, if not 10s of thousands of cyberattacks in the US and the rate is increasing. 
 
 If that doesn't scare you, replace the word cyberattack with tornado.
+---
+An update from this is that I ended up writing a case study of the hack in [Oldsmar (which probably wasn't a hack in the end)](https://www.dropbox.com/scl/fi/6hxr7k4mnpk5xq5s9f4k4/LaLone-Oldsmar.pdf?rlkey=d0gjfq2i3w2120ffb09j7px0g&dl=0) and what's more interesting is the recent discussion of this hack [where a plant employee made an error and blamed it on hackers resulting in a massive technology overhaul not really related to the Industrial Control System](https://industrialcyber.co/utilities-energy-power-water-waste/oldsmar-water-treatment-plant-incident-allegedly-caused-by-human-error-not-remote-access-cybersecurity-breach/).
+
+The most fascinating part of the hack that wasn't a hack is that everything in the case study is true even if the hack isn't real because the vulnerabilities were just sitting there in the clear.
+
+I think a lot about this talk every day as it marks a significant shift from being in academia to wanting to do good action-based work outside of academia and writing as a hobby.
