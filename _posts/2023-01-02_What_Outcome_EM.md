@@ -1,12 +1,12 @@
 ---
 author: nicklalone
-date: 2023-02-21 12:00:00 +0800
-title: 3 Tenets on the Integration of Information Technology with Emergency Management
+date: 2023-01-02 12:00:00 +0800
+title: What Outcome Does Emergency Management Need in Data Science?
 tags: [Emergency Management, Technology, Data Science]
 render_with_liquid: true
 ---
 
-We need a better approach than what we’ve been using.
+We need a better approach to teaching technology in EM than what we’ve been using.
 
 In the past few years, i’ve been working on better defining how technology and emergency management (EM) can play well together. It is a project that feels mostly like trying to get fire to be wet or convincing the color orange to be purple.
 
