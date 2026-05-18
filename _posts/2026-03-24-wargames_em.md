@@ -1,8 +1,8 @@
 ---
 author: nicklalone
-date: 2025-12-14 12:00:00 +0800
-title: IAME 2022 - EMVision Talk - Basic Tech Literacy in EM Is Not Good Enough
-tags: [Emergency Management, Technology, Tech Integration]
+date: 2026-05-18 12:00:00 +0800
+title: The Problem of Applying Wargaming to Emergency Management
+tags: [Emergency Management, Technology, Tech Integration, Wargaming]
 render_with_liquid: false
 ---
 
