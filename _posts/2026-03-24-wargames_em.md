@@ -23,7 +23,7 @@ Before I go any further, I want to define some terms for the purposes of this pi
 
 ## Terms Required to be Known 
 | Term | Definition |
-|--------------------|:------------------:|
+| -------------------- | :------------------: |
 | Analytics| Act of transforming data to information |
 | Data Warehousing | Storage of data that can be accessed remotely in a structured way for Analytics |
 | Fidelity| [In wargaming terms, consider this how close to being a boot on the ground in terms of realism](https://www.shadowboxtraining.com/news/2023/02/14/thoughts-on-training-fidelity/). The lower the fidelity, the higher you are in the command structure. |
