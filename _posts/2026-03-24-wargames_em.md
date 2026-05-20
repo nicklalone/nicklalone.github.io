@@ -23,11 +23,11 @@ Before I go any further, I want to define some terms for the purposes of this pi
 
 ## Terms Required to be Known 
 | Term | Definition |
-|---|---|
+|--------------------|:------------------:|
 | Analytics| Act of transforming data to information |
-| Data Warehousing| Storage of data that can be accessed remotely in a structured way for Analytics |
+| Data Warehousing | Storage of data that can be accessed remotely in a structured way for Analytics |
 | Fidelity| [In wargaming terms, consider this how close to being a boot on the ground in terms of realism](https://www.shadowboxtraining.com/news/2023/02/14/thoughts-on-training-fidelity/). The lower the fidelity, the higher you are in the command structure. |
-| Knowledge Transfer| Capacity for a wargame to transfer in-game, in-simulation events to actionable, real-life potential|
+| Knowledge Transfer| Capacity for a wargame to transfer in-game, in-simulation events to actionable, real-life potential |
 | Serious Games| Games created with a subject matter in mind that are meant to educate about a topic versus train personnel in wargaming |
 | Situational Awareness| Capacity to understand everything that is happening around you from noticing to anticipating |
 | Wargames| Primary vehicle of workforce development that started after the Napleonic Campaigns. Currently are used to provide low to high fidelity simulations of a variety of environments |
